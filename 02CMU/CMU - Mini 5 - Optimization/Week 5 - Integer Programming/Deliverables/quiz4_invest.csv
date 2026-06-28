@@ -1,0 +1,11 @@
+Project,Capital ($M),Sector,Risk,Duration,Expected return ($M)
+Project 1,20,IT,Low,2,34
+Project 2,15,Healthcare,Medium,4,36
+Project 3,23,Healthcare,High,3,50
+Project 4,10,Industrials,Medium,3,16
+Project 5,20,Engineering,Medium,6,54
+Project 6,12,IT,High,4,32
+Project 7,20,Financials,High,5,60
+Project 8,25,Energy,Low,7,48
+Project 9,14,Energy,Medium,4,38
+Project 10,10,IT,Low,1,12

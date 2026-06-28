@@ -1,0 +1,2507 @@
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.2299]
+1,Gaussian Naive Bayes::roc_auc,0.4994787612082914
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.2299]
+1,Gaussian Naive Bayes::roc_auc,0.4994787612082914
+1,l1 Penalized Logistic Regression::search_on_edge,True
+1,l1 Penalized Logistic Regression::score_variation,1.3596108269926295
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.8017  0.7933  0.7915  0.791   0.7908  0.79265 0.79425 0.79415 0.79385
+ 0.7938 ]
+1,l1 Penalized Logistic Regression::roc_auc,0.702547553805198
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7683]
+1,Gaussian Naive Bayes::roc_auc,0.6789091693890948
+1,l1 Penalized Logistic Regression::search_on_edge,True
+1,l1 Penalized Logistic Regression::score_variation,0.06819168061495746
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.8061  0.806   0.8063  0.80635 0.8064  0.80645 0.80635 0.8063  0.8065
+ 0.80655]
+1,l1 Penalized Logistic Regression::roc_auc,0.7070559694280661
+1,l2 Penalized Logistic Regression::search_on_edge,True
+1,l2 Penalized Logistic Regression::score_variation,0.09918789907628801
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.80655 0.80655 0.80655 0.80645 0.8063  0.80575 0.80585 0.80615 0.8061
+ 0.80615]
+1,l2 Penalized Logistic Regression::roc_auc,0.6795010327221148
+1,Decision tree::search_on_edge,True
+1,Decision tree::score_variation,0.0
+1,Decision tree::all_cv_scores,[0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655]
+1,Decision tree::roc_auc,0.6899043717822343
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7683]
+1,Gaussian Naive Bayes::roc_auc,0.6789091693890948
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Lasso::ret_PESS::search_on_edge,True
+1,Lasso::ret_PESS::score_variation,-168.94023802514124
+1,Lasso::all_cv_scores,[-0.02334732 -0.03499643 -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.03501563367952887
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,122.67686357190937
+1,Lasso::all_cv_scores,[ 0.01439795  0.00207023 -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.023339029456527993
+1,Lasso::ret_INTa::search_on_edge,True
+1,Lasso::ret_INTa::score_variation,-330.0705889101541
+1,Lasso::all_cv_scores,[-0.0121592  -0.02642165 -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.03800608252048554
+1,Lasso::ret_INTb::search_on_edge,True
+1,Lasso::ret_INTb::score_variation,-505.4167963322062
+1,Lasso::all_cv_scores,[-0.0075502  -0.02055894 -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.03725228197060404
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-1.7134010962298285
+1,Ridge::all_cv_scores,[-0.01395536 -0.01395535 -0.01395534 -0.01395531 -0.01395494 -0.0139513
+ -0.01391714 -0.01372028]
+1,Ridge::ret_PESS::r2,0.04066013207942065
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,2.7739945552393923
+1,Ridge::all_cv_scores,[0.01480168 0.01480169 0.0148017  0.01480176 0.01480241 0.01480881
+ 0.01486906 0.01522399]
+1,Ridge::ret_OPT::r2,0.022479100714796862
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-8.195565076231132
+1,Ridge::all_cv_scores,[-0.00252023 -0.00252021 -0.00252021 -0.00252017 -0.00251985 -0.00251664
+ -0.00248668 -0.00232933]
+1,Ridge::ret_INTa::r2,0.04318274449722703
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,13.865263063834304
+1,Ridge::all_cv_scores,[0.00127228 0.00127228 0.00127229 0.00127232 0.00127267 0.00127609
+ 0.00130799 0.00147708]
+1,Ridge::ret_INTb::r2,0.041942914068376136
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-2.37955329e+20]
+1,Linear Regression::ret_PESS::r2,-9.238702320542677e+19
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-1.11679011e+21]
+1,Linear Regression::ret_OPT::r2,-1.9733067153736522e+18
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-3.0101265e+20]
+1,Linear Regression::ret_INTa::r2,-5.175817017121045e+19
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-3.4364587e+20]
+1,Linear Regression::ret_INTb::r2,-4.08471193566722e+19
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7683]
+1,Gaussian Naive Bayes::roc_auc,0.6789091693890948
+1,l1 Penalized Logistic Regression::search_on_edge,True
+1,l1 Penalized Logistic Regression::score_variation,0.06819168061495746
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.8061  0.806   0.8063  0.80635 0.8064  0.80645 0.80635 0.8063  0.8065
+ 0.80655]
+1,l1 Penalized Logistic Regression::roc_auc,0.7070559694280661
+1,l2 Penalized Logistic Regression::search_on_edge,True
+1,l2 Penalized Logistic Regression::score_variation,0.09918789907628801
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.80655 0.80655 0.80655 0.80645 0.8063  0.80575 0.80585 0.80615 0.8061
+ 0.80615]
+1,l2 Penalized Logistic Regression::roc_auc,0.6795010327221148
+1,Decision tree::search_on_edge,True
+1,Decision tree::score_variation,0.0
+1,Decision tree::all_cv_scores,[0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655]
+1,Decision tree::roc_auc,0.6899043717822343
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-248.2105001598638
+1,Lasso::all_cv_scores,[-0.01830662 -0.01830662 -0.01830662 -0.0180323  -0.02334732 -0.03499643
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.04070846412049989
+1,Lasso::ret_OPT::search_on_edge,True
+1,Lasso::ret_OPT::score_variation,120.69600594267672
+1,Lasso::all_cv_scores,[ 0.015776    0.015776    0.01576279  0.01546607  0.01439795  0.00207023
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.022590990704392078
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-993.1377073044691
+1,Lasso::all_cv_scores,[-0.00478383 -0.00478383 -0.00478377 -0.0054164  -0.0121592  -0.02642165
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.043322134776721755
+1,Lasso::ret_INTb::search_on_edge,False
+1,Lasso::ret_INTb::score_variation,-1582.6818331189763
+1,Lasso::all_cv_scores,[-0.00288642 -0.00288642 -0.00287042 -0.00271651 -0.0075502  -0.02055894
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.04209618878347865
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-1.7134010962298285
+1,Ridge::all_cv_scores,[-0.01395536 -0.01395535 -0.01395534 -0.01395531 -0.01395494 -0.0139513
+ -0.01391714 -0.01372028]
+1,Ridge::ret_PESS::r2,0.04066013207942065
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,2.7739945552393923
+1,Ridge::all_cv_scores,[0.01480168 0.01480169 0.0148017  0.01480176 0.01480241 0.01480881
+ 0.01486906 0.01522399]
+1,Ridge::ret_OPT::r2,0.022479100714796862
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-8.195565076231132
+1,Ridge::all_cv_scores,[-0.00252023 -0.00252021 -0.00252021 -0.00252017 -0.00251985 -0.00251664
+ -0.00248668 -0.00232933]
+1,Ridge::ret_INTa::r2,0.04318274449722703
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,13.865263063834304
+1,Ridge::all_cv_scores,[0.00127228 0.00127228 0.00127229 0.00127232 0.00127267 0.00127609
+ 0.00130799 0.00147708]
+1,Ridge::ret_INTb::r2,0.041942914068376136
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-2.37955329e+20]
+1,Linear Regression::ret_PESS::r2,-9.238702320542677e+19
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-1.11679011e+21]
+1,Linear Regression::ret_OPT::r2,-1.9733067153736522e+18
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-3.0101265e+20]
+1,Linear Regression::ret_INTa::r2,-5.175817017121045e+19
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-3.4364587e+20]
+1,Linear Regression::ret_INTb::r2,-4.08471193566722e+19
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.761]
+1,Gaussian Naive Bayes::roc_auc,0.6868385973820869
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-150.92487351275517
+1,Lasso::all_cv_scores,[-0.02526011 -0.02526955 -0.02521574 -0.02502356 -0.03000496 -0.04005362
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.031182038863117656
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.019671328716432845
+1,Lasso::ret_INTa::search_on_edge,True
+1,Lasso::ret_INTa::score_variation,-385.6862707987641
+1,Lasso::all_cv_scores,[-0.01076686 -0.01076686 -0.01081647 -0.01142269 -0.01834977 -0.03008225
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.03904647598883526
+1,Lasso::ret_INTb::search_on_edge,True
+1,Lasso::ret_INTb::score_variation,-697.2834665600068
+1,Lasso::all_cv_scores,[-0.00573324 -0.00573324 -0.005794   -0.00672939 -0.01312553 -0.02396515
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.038069128054979084
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-0.07384895973620369
+1,Ridge::all_cv_scores,[-0.01947179 -0.01947179 -0.01947179 -0.01947179 -0.0194718  -0.01947193
+ -0.01947319 -0.01948617]
+1,Ridge::ret_PESS::r2,0.03615077874706263
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.01925260917651561
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-0.16473443321412465
+1,Ridge::all_cv_scores,[-0.00836344 -0.00836344 -0.00836344 -0.00836344 -0.00836345 -0.00836357
+ -0.00836478 -0.00837722]
+1,Ridge::ret_INTa::r2,0.039046475988862905
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,-0.29232565060187243
+1,Ridge::all_cv_scores,[-0.00411941 -0.00411941 -0.00411941 -0.00411941 -0.00411942 -0.00411953
+ -0.00412058 -0.00413145]
+1,Ridge::ret_INTb::r2,0.038021243065844645
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.01953815]
+1,Linear Regression::ret_PESS::r2,0.036154262418623406
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.01267672]
+1,Linear Regression::ret_OPT::r2,0.019250789895539966
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.00834318]
+1,Linear Regression::ret_INTa::r2,0.03904838489211049
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.00412954]
+1,Linear Regression::ret_INTb::r2,0.038019298856921235
+1,Multi-Layer Perceptron::ret_PESS::search_on_edge,False
+1,Multi-Layer Perceptron::ret_PESS::score_variation,-257.6420311328059
+1,Multi-Layer Perceptron::all_cv_scores,[-0.07109979 -0.05022684 -0.04787912 -0.06063919 -0.06805049 -0.04180607
+ -0.03389853 -0.0738191  -0.05560943 -0.05778078 -0.05366216 -0.05967985
+ -0.04839093 -0.04258232 -0.05435572 -0.03647465 -0.03961893 -0.03711939
+ -0.02192511 -0.03728407 -0.02405924 -0.05398312 -0.03696961 -0.04606442
+ -0.04400843 -0.05179859 -0.06403865 -0.05830543 -0.05801455 -0.06455172
+ -0.05564104 -0.06988851 -0.07812047 -0.07841343 -0.06312969 -0.06516007
+ -0.06429544 -0.06113652 -0.06047964 -0.06865526 -0.06139794 -0.05909798]
+1,Multi-Layer Perceptron::ret_PESS::r2,0.03145517822101407
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,True
+1,Multi-Layer Perceptron::ret_OPT::score_variation,470.9228888961761
+1,Multi-Layer Perceptron::all_cv_scores,[-0.02599707 -0.01661423 -0.02243127 -0.03166336 -0.02274628 -0.0149293
+ -0.02021717 -0.00857854 -0.0026373  -0.01404975 -0.00791676 -0.00748608
+ -0.00100428 -0.0001703  -0.00589605 -0.00140383  0.00327758  0.00805013
+ -0.00180328 -0.00249245  0.00853637 -0.00262313  0.00199769 -0.00077145
+  0.0009618  -0.01182202 -0.00108611 -0.00430373 -0.00240651 -0.00433539
+ -0.00332283 -0.00426531 -0.00716808 -0.00414382 -0.0051314  -0.00347902
+ -0.00373117 -0.00382004 -0.00252566 -0.0030776  -0.0028637  -0.00283503]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.014000329046098936
+1,Multi-Layer Perceptron::ret_INTa::search_on_edge,False
+1,Multi-Layer Perceptron::ret_INTa::score_variation,-1812.8733608083244
+1,Multi-Layer Perceptron::all_cv_scores,[-0.16641073 -0.05652853 -0.09746777 -0.07630274 -0.11243488 -0.08950712
+ -0.0688126  -0.05959081 -0.0485917  -0.05989059 -0.03408287 -0.06627994
+ -0.06069688 -0.02216765 -0.09957825 -0.04597318 -0.02359658 -0.00869952
+ -0.0127112  -0.04899058 -0.04664201 -0.03299339 -0.03362462 -0.04529479
+ -0.04304496 -0.0379379  -0.04317598 -0.03761036 -0.05922045 -0.04627836
+ -0.05072884 -0.07099388 -0.05659388 -0.05783261 -0.0482902  -0.05132337
+ -0.0549808  -0.0588006  -0.05774162 -0.05484833 -0.05231545 -0.0524289 ]
+1,Multi-Layer Perceptron::ret_INTa::r2,0.02610683273570502
+1,Multi-Layer Perceptron::ret_INTb::search_on_edge,False
+1,Multi-Layer Perceptron::ret_INTb::score_variation,-1026.6580832542945
+1,Multi-Layer Perceptron::all_cv_scores,[-0.060746   -0.11517253 -0.0689593  -0.05176753 -0.0948372  -0.05051919
+ -0.04019136 -0.08863617 -0.04718482 -0.05304317 -0.02362964 -0.04051294
+ -0.03223605 -0.02488018 -0.07118784 -0.02131476 -0.01022249 -0.01618091
+ -0.0433079  -0.02897532 -0.01681745 -0.04638478 -0.0217809  -0.02954301
+ -0.03912979 -0.03567563 -0.04732795 -0.03311959 -0.04636133 -0.0454876
+ -0.05300509 -0.0497301  -0.04693255 -0.05205214 -0.04669558 -0.04540534
+ -0.04286139 -0.04954088 -0.04319298 -0.03923218 -0.04573501 -0.04594534]
+1,Multi-Layer Perceptron::ret_INTb::r2,0.03271594254727239
+1,Random forest regressor::ret_PESS::search_on_edge,True
+1,Random forest regressor::ret_PESS::score_variation,-77.01905350545987
+1,Random forest regressor::all_cv_scores,[-0.02001017 -0.01990023 -0.01977897 -0.01777941 -0.0181854  -0.01852158
+ -0.01907352 -0.02129625 -0.0211741  -0.02134112 -0.019275   -0.01966317
+ -0.01896402 -0.0199981  -0.02508037 -0.02549241 -0.02502935 -0.02490834
+ -0.02491293 -0.02451461 -0.02538791 -0.03069539 -0.02817133 -0.02839442
+ -0.02943361 -0.02799988 -0.02841196 -0.02859128 -0.0311691  -0.0314533
+ -0.03108747 -0.03147294 -0.03094842 -0.03082349 -0.03003251]
+1,Random forest regressor::ret_PESS::r2,0.042088733739382045
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.761]
+1,Gaussian Naive Bayes::roc_auc,0.6868385973820869
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-150.92487351275517
+1,Lasso::all_cv_scores,[-0.02526011 -0.02526955 -0.02521574 -0.02502356 -0.03000496 -0.04005362
+ -0.06279035 -0.06279035]
+1,Lasso::ret_PESS::r2,0.0068249865841754865
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Lasso::ret_INTa::search_on_edge,True
+1,Lasso::ret_INTa::score_variation,-385.6862707987641
+1,Lasso::all_cv_scores,[-0.01076686 -0.01076686 -0.01081647 -0.01142269 -0.01834977 -0.03008225
+ -0.05229316 -0.05229316]
+1,Lasso::ret_INTa::r2,0.0036051429478602265
+1,Lasso::ret_INTb::search_on_edge,True
+1,Lasso::ret_INTb::score_variation,-697.2834665600068
+1,Lasso::all_cv_scores,[-0.00573324 -0.00573324 -0.005794   -0.00672939 -0.01312553 -0.02396515
+ -0.04571016 -0.04571016]
+1,Lasso::ret_INTb::r2,0.004143468021010789
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-0.07384895973620369
+1,Ridge::all_cv_scores,[-0.01947179 -0.01947179 -0.01947179 -0.01947179 -0.0194718  -0.01947193
+ -0.01947319 -0.01948617]
+1,Ridge::ret_PESS::r2,0.006789983534677532
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.012149297614108729
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-0.16473443321412465
+1,Ridge::all_cv_scores,[-0.00836344 -0.00836344 -0.00836344 -0.00836344 -0.00836345 -0.00836357
+ -0.00836478 -0.00837722]
+1,Ridge::ret_INTa::r2,0.003605142947860123
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,-0.29232565060187243
+1,Ridge::all_cv_scores,[-0.00411941 -0.00411941 -0.00411941 -0.00411941 -0.00411942 -0.00411953
+ -0.00412058 -0.00413145]
+1,Ridge::ret_INTb::r2,0.004143674283151813
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.01953815]
+1,Linear Regression::ret_PESS::r2,0.006789958993419401
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.01267672]
+1,Linear Regression::ret_OPT::r2,0.012149320150988486
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.00834318]
+1,Linear Regression::ret_INTa::r2,0.003605135786359687
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.00412954]
+1,Linear Regression::ret_INTb::r2,0.00414368265773229
+1,Multi-Layer Perceptron::ret_PESS::search_on_edge,False
+1,Multi-Layer Perceptron::ret_PESS::score_variation,-257.6420311328059
+1,Multi-Layer Perceptron::all_cv_scores,[-0.07109979 -0.05022684 -0.04787912 -0.06063919 -0.06805049 -0.04180607
+ -0.03389853 -0.0738191  -0.05560943 -0.05778078 -0.05366216 -0.05967985
+ -0.04839093 -0.04258232 -0.05435572 -0.03647465 -0.03961893 -0.03711939
+ -0.02192511 -0.03728407 -0.02405924 -0.05398312 -0.03696961 -0.04606442
+ -0.04400843 -0.05179859 -0.06403865 -0.05830543 -0.05801455 -0.06455172
+ -0.05564104 -0.06988851 -0.07812047 -0.07841343 -0.06312969 -0.06516007
+ -0.06429544 -0.06113652 -0.06047964 -0.06865526 -0.06139794 -0.05909798]
+1,Multi-Layer Perceptron::ret_PESS::r2,0.00682306241211424
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,True
+1,Multi-Layer Perceptron::ret_OPT::score_variation,470.9228888961761
+1,Multi-Layer Perceptron::all_cv_scores,[-0.02599707 -0.01661423 -0.02243127 -0.03166336 -0.02274628 -0.0149293
+ -0.02021717 -0.00857854 -0.0026373  -0.01404975 -0.00791676 -0.00748608
+ -0.00100428 -0.0001703  -0.00589605 -0.00140383  0.00327758  0.00805013
+ -0.00180328 -0.00249245  0.00853637 -0.00262313  0.00199769 -0.00077145
+  0.0009618  -0.01182202 -0.00108611 -0.00430373 -0.00240651 -0.00433539
+ -0.00332283 -0.00426531 -0.00716808 -0.00414382 -0.0051314  -0.00347902
+ -0.00373117 -0.00382004 -0.00252566 -0.0030776  -0.0028637  -0.00283503]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.012214361783592293
+1,Multi-Layer Perceptron::ret_INTa::search_on_edge,False
+1,Multi-Layer Perceptron::ret_INTa::score_variation,-1812.8733608083244
+1,Multi-Layer Perceptron::all_cv_scores,[-0.16641073 -0.05652853 -0.09746777 -0.07630274 -0.11243488 -0.08950712
+ -0.0688126  -0.05959081 -0.0485917  -0.05989059 -0.03408287 -0.06627994
+ -0.06069688 -0.02216765 -0.09957825 -0.04597318 -0.02359658 -0.00869952
+ -0.0127112  -0.04899058 -0.04664201 -0.03299339 -0.03362462 -0.04529479
+ -0.04304496 -0.0379379  -0.04317598 -0.03761036 -0.05922045 -0.04627836
+ -0.05072884 -0.07099388 -0.05659388 -0.05783261 -0.0482902  -0.05132337
+ -0.0549808  -0.0588006  -0.05774162 -0.05484833 -0.05231545 -0.0524289 ]
+1,Multi-Layer Perceptron::ret_INTa::r2,0.003653687713508339
+1,Multi-Layer Perceptron::ret_INTb::search_on_edge,False
+1,Multi-Layer Perceptron::ret_INTb::score_variation,-1026.6580832542945
+1,Multi-Layer Perceptron::all_cv_scores,[-0.060746   -0.11517253 -0.0689593  -0.05176753 -0.0948372  -0.05051919
+ -0.04019136 -0.08863617 -0.04718482 -0.05304317 -0.02362964 -0.04051294
+ -0.03223605 -0.02488018 -0.07118784 -0.02131476 -0.01022249 -0.01618091
+ -0.0433079  -0.02897532 -0.01681745 -0.04638478 -0.0217809  -0.02954301
+ -0.03912979 -0.03567563 -0.02292629 -0.05004498 -0.04509759 -0.03730361
+ -0.04030858 -0.05202808 -0.05054766 -0.05578664 -0.05438917 -0.04931478
+ -0.04505637 -0.04415552 -0.05017096 -0.0530838  -0.04262658 -0.04258035]
+1,Multi-Layer Perceptron::ret_INTb::r2,0.004215875309974496
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.012149297614108729
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.01267672]
+1,Linear Regression::ret_OPT::r2,0.012149320150988486
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,False
+1,Multi-Layer Perceptron::ret_OPT::score_variation,381.7497803448583
+1,Multi-Layer Perceptron::all_cv_scores,[-0.00361689 -0.0121928  -0.01536911 -0.01630346 -0.03172067 -0.01433891
+ -0.00427006 -0.01741118 -0.004439   -0.01839905 -0.0061914  -0.01681289
+  0.00075303  0.00196412 -0.01915044 -0.00372682  0.00757207  0.01064957
+  0.01125845  0.0051562   0.00916656 -0.0012386   0.00268747 -0.00026626
+ -0.00329376 -0.00567872 -0.00332468 -0.00379563 -0.00419345 -0.00374409
+ -0.00626989 -0.00403145 -0.00410133 -0.00401243 -0.00424321 -0.00292565
+ -0.00322092 -0.00296844 -0.0041163  -0.00389085 -0.00298778 -0.00276027]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.012191814914361153
+1,Random forest regressor::ret_OPT::search_on_edge,True
+1,Random forest regressor::ret_OPT::score_variation,15.063080032791836
+1,Random forest regressor::all_cv_scores,[0.01843102 0.01925073 0.01925372 0.01891665 0.01989582 0.01853138
+ 0.01991712 0.01881489 0.01969682 0.02011502 0.01971901 0.01963485
+ 0.0192934  0.02050114 0.01844599 0.01852712 0.01976298 0.01860849
+ 0.01897272 0.0193734  0.01910212 0.01741303 0.01783816 0.01824581
+ 0.01865576 0.01827227 0.01857318 0.01834424 0.01763543 0.01772305
+ 0.01779691 0.01749991 0.01767261 0.01817288 0.01805996]
+1,Random forest regressor::ret_OPT::r2,0.01206451481249403
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Two-stage,ret_OPT::average return,0.04971285229727218
+1,Two-stage,ret_OPT::average return,0.04971285229727218
+1,Two-stage,ret_OPT::average return,0.04971285229727218
+1,Two-stage,ret_OPT::average return,0.05819501832937188
+1,Two-stage,ret_OPT::average return,0.062480354559440156
+1,Two-stage,ret_OPT::average return,0.07092172129588248
+1,Two-stage,ret_OPT::average return,0.07103734849958117
+1,Two-stage,ret_OPT::average return,0.0672913127230691
+1,Two-stage,ret_OPT::average return,0.06961113039568755
+1,Two-stage,ret_OPT::average return,0.07152902280776063
+1,Two-stage,ret_OPT::average return,0.06939428638936176
+1,Two-stage,ret_OPT::average return,0.04971285229727218
+1,Two-stage,ret_OPT::average return,0.06809337964803032
+1,Two-stage,ret_OPT::average return,0.04971285229727218
+1,Two-stage,ret_OPT::average return,0.06809337964803032
+1,Two-stage,ret_OPT::average return,0.06804268355757631
+1,Two-stage,ret_OPT::average return,-0.016149339492053858
+1,Two-stage,ret_OPT::average return,0.06809337964803032
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Greedy,ret_OPT::average return,0.15266473484624907
+1,Greedy,ret_OPT::average return,0.1510057536165999
+1,Greedy,ret_OPT::average return,0.14986239275420207
+1,Greedy,ret_OPT::average return,0.14874082264553531
+1,Greedy,ret_OPT::average return,0.1480115510705556
+1,Greedy,ret_OPT::average return,0.1469752970490511
+1,Greedy,ret_OPT::average return,0.14554454918156093
+1,Greedy,ret_OPT::average return,0.1447605555699755
+1,Greedy,ret_OPT::average return,0.14399735162038874
+1,Greedy,ret_OPT::average return,0.1437178163814906
+1,Greedy,ret_OPT::average return,0.14309391351268827
+1,Greedy,ret_OPT::average return,0.14213568408221053
+1,Greedy,ret_OPT::average return,0.14099490029195857
+1,Greedy,ret_OPT::average return,0.14006666627254993
+1,Greedy,ret_OPT::average return,0.1394401344213001
+1,Greedy,ret_OPT::average return,0.13900063387097156
+1,Greedy,ret_OPT::average return,0.1386266010687835
+1,Greedy,ret_OPT::average return,0.1380559288616965
+1,Greedy,ret_OPT::average return,0.13750839415312202
+1,Greedy,ret_OPT::average return,0.13706270985454977
+1,Greedy,ret_OPT::average return,0.13651591096983626
+1,Greedy,ret_OPT::average return,0.13576223036738938
+1,Greedy,ret_OPT::average return,0.13497885819029318
+1,Greedy,ret_OPT::average return,0.13461617924525526
+1,Greedy,ret_OPT::average return,0.13434426142953193
+1,Greedy,ret_OPT::average return,0.1337425688577156
+1,Greedy,ret_OPT::average return,0.13336391837493977
+1,Greedy,ret_OPT::average return,0.1328810788100781
+1,Greedy,ret_OPT::average return,0.1323659834356409
+1,Greedy,ret_OPT::average return,0.131846243332761
+1,Greedy,ret_OPT::average return,0.1312991617000807
+1,Greedy,ret_OPT::average return,0.13086017386477894
+1,Greedy,ret_OPT::average return,0.1306747575075551
+1,Greedy,ret_OPT::average return,0.1302061562533087
+1,Greedy,ret_OPT::average return,0.12969625243580857
+1,Greedy,ret_OPT::average return,0.12919192436157254
+1,Greedy,ret_OPT::average return,0.1288913433182157
+1,Greedy,ret_OPT::average return,0.12847348204617265
+1,Greedy,ret_OPT::average return,0.12810759336388783
+1,Greedy,ret_OPT::average return,0.12765857083526347
+1,Greedy,ret_OPT::average return,0.12717378295131307
+1,Greedy,ret_OPT::average return,0.1266491638576666
+1,Greedy,ret_OPT::average return,0.12613788190290712
+1,Greedy,ret_OPT::average return,0.12563212483876374
+1,Greedy,ret_OPT::average return,0.12515971823493074
+1,Greedy,ret_OPT::average return,0.1246736034504066
+1,Greedy,ret_OPT::average return,0.1241340770136578
+1,Greedy,ret_OPT::average return,0.12371481784679095
+1,Greedy,ret_OPT::average return,0.12330580783500186
+1,Greedy,ret_OPT::average return,0.12279378993157855
+1,Greedy,ret_OPT::average return,0.12230044196568636
+1,Greedy,ret_OPT::average return,0.12183019813814729
+1,Greedy,ret_OPT::average return,0.12134559788466068
+1,Greedy,ret_OPT::average return,0.12082065552033576
+1,Greedy,ret_OPT::average return,0.12030923662549044
+1,Greedy,ret_OPT::average return,0.11974273083971776
+1,Greedy,ret_OPT::average return,0.11929462320887327
+1,Greedy,ret_OPT::average return,0.11874694701547084
+1,Greedy,ret_OPT::average return,0.11824279240447763
+1,Greedy,ret_OPT::average return,0.1177689383999177
+1,Greedy,ret_OPT::average return,0.11714370044294709
+1,Greedy,ret_OPT::average return,0.11655779912362127
+1,Greedy,ret_OPT::average return,0.11602752909241877
+1,Greedy,ret_OPT::average return,0.11551623425476874
+1,Greedy,ret_OPT::average return,0.11494350941696845
+1,Greedy,ret_OPT::average return,0.1142439607341001
+1,Greedy,ret_OPT::average return,0.1135868675170954
+1,Greedy,ret_OPT::average return,0.11294515107721001
+1,Greedy,ret_OPT::average return,0.11233699811760184
+1,Greedy,ret_OPT::average return,0.11166425748792637
+1,Greedy,ret_OPT::average return,0.11092733980796653
+1,Greedy,ret_OPT::average return,0.11003089021846228
+1,Greedy,ret_OPT::average return,0.10788365907464534
+1,Greedy,ret_OPT::average return,0.1051578694836435
+1,Greedy,ret_OPT::average return,0.10222042928199856
+1,Greedy,ret_OPT::average return,0.09925587856480683
+1,Greedy,ret_OPT::average return,0.09633785440234742
+1,Greedy,ret_OPT::average return,0.0934711278643958
+1,Greedy,ret_OPT::average return,0.09069784717743824
+1,Greedy,ret_OPT::average return,0.08809903534756668
+1,Greedy,ret_OPT::average return,0.08544937543920854
+1,Greedy,ret_OPT::average return,0.08236965900209925
+1,Greedy,ret_OPT::average return,0.07952646108064669
+1,Greedy,ret_OPT::average return,0.07680619509113584
+1,Greedy,ret_OPT::average return,0.07417722401268632
+1,Greedy,ret_OPT::average return,0.07145648356600096
+1,Greedy,ret_OPT::average return,0.06882874302733735
+1,Greedy,ret_OPT::average return,0.06599531161256181
+1,Greedy,ret_OPT::average return,0.0634681057584727
+1,Greedy,ret_OPT::average return,0.06096494497721681
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Greedy,ret_OPT::average return,0.15266473484624907
+1,Greedy,ret_OPT::average return,0.1510057536165999
+1,Greedy,ret_OPT::average return,0.14986239275420207
+1,Greedy,ret_OPT::average return,0.14874082264553531
+1,Greedy,ret_OPT::average return,0.1480115510705556
+1,Greedy,ret_OPT::average return,0.1469752970490511
+1,Greedy,ret_OPT::average return,0.14554454918156093
+1,Greedy,ret_OPT::average return,0.1447605555699755
+1,Greedy,ret_OPT::average return,0.14399735162038874
+1,Greedy,ret_OPT::average return,0.1437178163814906
+1,Greedy,ret_OPT::average return,0.14309391351268827
+1,Greedy,ret_OPT::average return,0.14213568408221053
+1,Greedy,ret_OPT::average return,0.14099490029195857
+1,Greedy,ret_OPT::average return,0.14006666627254993
+1,Greedy,ret_OPT::average return,0.1394401344213001
+1,Greedy,ret_OPT::average return,0.13900063387097156
+1,Greedy,ret_OPT::average return,0.1386266010687835
+1,Greedy,ret_OPT::average return,0.1380559288616965
+1,Greedy,ret_OPT::average return,0.13750839415312202
+1,Greedy,ret_OPT::average return,0.13706270985454977
+1,Greedy,ret_OPT::average return,0.13651591096983626
+1,Greedy,ret_OPT::average return,0.13576223036738938
+1,Greedy,ret_OPT::average return,0.13497885819029318
+1,Greedy,ret_OPT::average return,0.13461617924525526
+1,Greedy,ret_OPT::average return,0.13434426142953193
+1,Greedy,ret_OPT::average return,0.1337425688577156
+1,Greedy,ret_OPT::average return,0.13336391837493977
+1,Greedy,ret_OPT::average return,0.1328810788100781
+1,Greedy,ret_OPT::average return,0.1323659834356409
+1,Greedy,ret_OPT::average return,0.131846243332761
+1,Greedy,ret_OPT::average return,0.1312991617000807
+1,Greedy,ret_OPT::average return,0.13086017386477894
+1,Greedy,ret_OPT::average return,0.1306747575075551
+1,Greedy,ret_OPT::average return,0.1302061562533087
+1,Greedy,ret_OPT::average return,0.12969625243580857
+1,Greedy,ret_OPT::average return,0.12919192436157254
+1,Greedy,ret_OPT::average return,0.1288913433182157
+1,Greedy,ret_OPT::average return,0.12847348204617265
+1,Greedy,ret_OPT::average return,0.12810759336388783
+1,Greedy,ret_OPT::average return,0.12765857083526347
+1,Greedy,ret_OPT::average return,0.12717378295131307
+1,Greedy,ret_OPT::average return,0.1266491638576666
+1,Greedy,ret_OPT::average return,0.12613788190290712
+1,Greedy,ret_OPT::average return,0.12563212483876374
+1,Greedy,ret_OPT::average return,0.12515971823493074
+1,Greedy,ret_OPT::average return,0.1246736034504066
+1,Greedy,ret_OPT::average return,0.1241340770136578
+1,Greedy,ret_OPT::average return,0.12371481784679095
+1,Greedy,ret_OPT::average return,0.12330580783500186
+1,Greedy,ret_OPT::average return,0.12279378993157855
+1,Greedy,ret_OPT::average return,0.12230044196568636
+1,Greedy,ret_OPT::average return,0.12183019813814729
+1,Greedy,ret_OPT::average return,0.12134559788466068
+1,Greedy,ret_OPT::average return,0.12082065552033576
+1,Greedy,ret_OPT::average return,0.12030923662549044
+1,Greedy,ret_OPT::average return,0.11974273083971776
+1,Greedy,ret_OPT::average return,0.11929462320887327
+1,Greedy,ret_OPT::average return,0.11874694701547084
+1,Greedy,ret_OPT::average return,0.11824279240447763
+1,Greedy,ret_OPT::average return,0.1177689383999177
+1,Greedy,ret_OPT::average return,0.11714370044294709
+1,Greedy,ret_OPT::average return,0.11655779912362127
+1,Greedy,ret_OPT::average return,0.11602752909241877
+1,Greedy,ret_OPT::average return,0.11551623425476874
+1,Greedy,ret_OPT::average return,0.11494350941696845
+1,Greedy,ret_OPT::average return,0.1142439607341001
+1,Greedy,ret_OPT::average return,0.1135868675170954
+1,Greedy,ret_OPT::average return,0.11294515107721001
+1,Greedy,ret_OPT::average return,0.11233699811760184
+1,Greedy,ret_OPT::average return,0.11166425748792637
+1,Greedy,ret_OPT::average return,0.11092733980796653
+1,Greedy,ret_OPT::average return,0.11003089021846228
+1,Greedy,ret_OPT::average return,0.10788365907464534
+1,Greedy,ret_OPT::average return,0.1051578694836435
+1,Greedy,ret_OPT::average return,0.10222042928199856
+1,Greedy,ret_OPT::average return,0.09925587856480683
+1,Greedy,ret_OPT::average return,0.09633785440234742
+1,Greedy,ret_OPT::average return,0.0934711278643958
+1,Greedy,ret_OPT::average return,0.09069784717743824
+1,Greedy,ret_OPT::average return,0.08809903534756668
+1,Greedy,ret_OPT::average return,0.08544937543920854
+1,Greedy,ret_OPT::average return,0.08236965900209925
+1,Greedy,ret_OPT::average return,0.07952646108064669
+1,Greedy,ret_OPT::average return,0.07680619509113584
+1,Greedy,ret_OPT::average return,0.07417722401268632
+1,Greedy,ret_OPT::average return,0.07145648356600096
+1,Greedy,ret_OPT::average return,0.06882874302733735
+1,Greedy,ret_OPT::average return,0.06599531161256181
+1,Greedy,ret_OPT::average return,0.0634681057584727
+1,Greedy,ret_OPT::average return,0.06096494497721681
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Innovative,ret_OPT::average return,0.16268201185194567
+1,Innovative,ret_OPT::average return,0.15647937626694375
+1,Innovative,ret_OPT::average return,0.15226708715936746
+1,Innovative,ret_OPT::average return,0.14907616213773442
+1,Innovative,ret_OPT::average return,0.14686307436871135
+1,Innovative,ret_OPT::average return,0.14484343092042884
+1,Innovative,ret_OPT::average return,0.14291327713443927
+1,Innovative,ret_OPT::average return,0.14123661389575032
+1,Innovative,ret_OPT::average return,0.13975723211700625
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Two-stage,ret_OPT::average return,0.06074459127667297
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.761]
+1,Gaussian Naive Bayes::roc_auc,0.6868385973820869
+1,l1 Penalized Logistic Regression::search_on_edge,True
+1,l1 Penalized Logistic Regression::score_variation,0.04958780140084993
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.80625 0.80655 0.8065  0.8066  0.8065  0.8066  0.8066  0.8066  0.80655
+ 0.80665]
+1,l1 Penalized Logistic Regression::roc_auc,0.7034995486280433
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,0.11775643012084233
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.80655 0.80655 0.80655 0.80675 0.8058  0.80655 0.80665 0.8066  0.8066
+ 0.80665]
+1,l2 Penalized Logistic Regression::roc_auc,0.7022816620363446
+1,Decision tree::search_on_edge,True
+1,Decision tree::score_variation,0.0
+1,Decision tree::all_cv_scores,[0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655 0.80655]
+1,Decision tree::roc_auc,0.6895780529360139
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.012149297614108729
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.01267672]
+1,Linear Regression::ret_OPT::r2,0.012149320150988486
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,False
+1,Multi-Layer Perceptron::ret_OPT::score_variation,381.7497803448583
+1,Multi-Layer Perceptron::all_cv_scores,[-0.00361689 -0.0121928  -0.01536911 -0.01630346 -0.03172067 -0.01433891
+ -0.00427006 -0.01741118 -0.004439   -0.01839905 -0.0061914  -0.01681289
+  0.00075303  0.00196412 -0.01915044 -0.00372682  0.00757207  0.01064957
+  0.01125845  0.0051562   0.00916656 -0.0012386   0.00268747 -0.00026626
+ -0.00329376 -0.00567872 -0.00332468 -0.00379563 -0.00419345 -0.00374409
+ -0.00626989 -0.00403145 -0.00410133 -0.00401243 -0.00424321 -0.00292565
+ -0.00322092 -0.00296844 -0.0041163  -0.00389085 -0.00298778 -0.00276027]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.012191814914361153
+1,Random forest regressor::ret_OPT::search_on_edge,True
+1,Random forest regressor::ret_OPT::score_variation,15.063080032791836
+1,Random forest regressor::all_cv_scores,[0.01843102 0.01925073 0.01925372 0.01891665 0.01989582 0.01853138
+ 0.01991712 0.01881489 0.01969682 0.02011502 0.01971901 0.01963485
+ 0.0192934  0.02050114 0.01844599 0.01852712 0.01976298 0.01860849
+ 0.01897272 0.0193734  0.01910212 0.01741303 0.01783816 0.01824581
+ 0.01865576 0.01827227 0.01857318 0.01834424 0.01763543 0.01772305
+ 0.01779691 0.01749991 0.01767261 0.01817288 0.01805996]
+1,Random forest regressor::ret_OPT::r2,0.01206451481249403
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Two-stage,ret_OPT::average return,0.06074459127667297
+1,Innovative,ret_OPT::average return,0.16268201185194567
+1,Innovative,ret_OPT::average return,0.15647937626694375
+1,Innovative,ret_OPT::average return,0.15226708715936746
+1,Innovative,ret_OPT::average return,0.14907616213773442
+1,Innovative,ret_OPT::average return,0.14686307436871135
+1,Innovative,ret_OPT::average return,0.14484343092042884
+1,Innovative,ret_OPT::average return,0.14291327713443927
+1,Innovative,ret_OPT::average return,0.14123661389575032
+1,Innovative,ret_OPT::average return,0.13975723211700625
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.012144110602290096
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.012149297614108729
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.01267672]
+1,Linear Regression::ret_OPT::r2,0.012149320150988486
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.019671328716432845
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.01925260917651561
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.01267672]
+1,Linear Regression::ret_OPT::r2,0.019250789895539966
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_PESS::average return,0.02019766862302238
+1,Regression,ret_OPT::average return,0.04239596301160794
+1,Regression,ret_INTa::average return,0.016439429275534097
+1,Regression,ret_INTb::average return,0.02417926435707166
+1,Regression,ret_PESS::average return,0.02019766862302238
+1,Regression,ret_OPT::average return,0.04239596301160794
+1,Regression,ret_INTa::average return,0.016439429275534097
+1,Regression,ret_INTb::average return,0.02417926435707166
+1,Regression,ret_PESS::average return,0.02019766862302238
+1,Regression,ret_OPT::average return,0.04239596301160794
+1,Regression,ret_INTa::average return,0.016439429275534097
+1,Regression,ret_INTb::average return,0.02417926435707166
+1,Regression,ret_PESS::average return,0.02019766862302238
+1,Regression,ret_OPT::average return,0.04239596301160794
+1,Regression,ret_INTa::average return,0.016439429275534097
+1,Regression,ret_INTb::average return,0.02417926435707166
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Two-stage,ret_OPT::average return,0.06074459127667297
+1,Innovative,ret_OPT::average return,0.16268201185194567
+1,Innovative,ret_OPT::average return,0.15647937626694375
+1,Innovative,ret_OPT::average return,0.15226708715936746
+1,Innovative,ret_OPT::average return,0.14907616213773442
+1,Innovative,ret_OPT::average return,0.14686307436871135
+1,Innovative,ret_OPT::average return,0.14484343092042884
+1,Innovative,ret_OPT::average return,0.14291327713443927
+1,Innovative,ret_OPT::average return,0.14123661389575032
+1,Innovative,ret_OPT::average return,0.13975723211700625
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,142.41870479201876
+1,Lasso::all_cv_scores,[ 0.00026934  0.00026934  0.00039346  0.00151333  0.00769708  0.00119736
+ -0.003265   -0.003265  ]
+1,Lasso::ret_OPT::r2,0.019671328716432845
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.023686770285984378
+1,Ridge::all_cv_scores,[0.01269642 0.01269642 0.01269642 0.01269642 0.01269643 0.01269645
+ 0.01269674 0.01269943]
+1,Ridge::ret_OPT::r2,0.01925260917651561
+1,Regression,ret_OPT::average return,0.07829121716048593
+1,Regression,ret_OPT::average return,0.06188315025095629
+1,Regression,ret_OPT::average return,0.059844954801018625
+1,Two-stage,ret_OPT::average return,0.06074459127667297
+1,Two-stage,ret_OPT::average return,0.07142072829200419
+1,Two-stage,ret_OPT::average return,0.01784506622276373
+1,Innovative,ret_OPT::average return,0.16268201185194567
+1,Innovative,ret_OPT::average return,0.15647937626694375
+1,Innovative,ret_OPT::average return,0.15226708715936746
+1,Innovative,ret_OPT::average return,0.14907616213773442
+1,Innovative,ret_OPT::average return,0.14686307436871135
+1,Innovative,ret_OPT::average return,0.14484343092042884
+1,Innovative,ret_OPT::average return,0.14291327713443927
+1,Innovative,ret_OPT::average return,0.14123661389575032
+1,Innovative,ret_OPT::average return,0.13975723211700625
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.17171476429838284
+1,Greedy,ret_OPT::average return,0.16846371367362964
+1,Greedy,ret_OPT::average return,0.16243385258979864
+1,Greedy,ret_OPT::average return,0.16079478714322026
+1,Greedy,ret_OPT::average return,0.15822891697654717
+1,Greedy,ret_OPT::average return,0.1560755515702993
+1,Greedy,ret_OPT::average return,0.15486555611620315
+1,Greedy,ret_OPT::average return,0.15387005725759734
+1,Innovative,ret_OPT::average return,0.16268201185194567
+1,Innovative,ret_OPT::average return,0.15647937626694375
+1,Innovative,ret_OPT::average return,0.15226708715936746
+1,Innovative,ret_OPT::average return,0.14907616213773442
+1,Innovative,ret_OPT::average return,0.14686307436871135
+1,Innovative,ret_OPT::average return,0.14484343092042884
+1,Innovative,ret_OPT::average return,0.14291327713443927
+1,Innovative,ret_OPT::average return,0.14123661389575032
+1,Innovative,ret_OPT::average return,0.13975723211700625
+1,Innovative,ret_OPT::average return,0.13824266474173488
+1,Innovative,ret_OPT::average return,0.13693133785740047
+1,Innovative,ret_OPT::average return,0.13568875149299184
+1,Innovative,ret_OPT::average return,0.1344343317183958
+1,Innovative,ret_OPT::average return,0.1332552169387707
+1,Innovative,ret_OPT::average return,0.13208963251952396
+1,Innovative,ret_OPT::average return,0.13097791916291926
+1,Innovative,ret_OPT::average return,0.12987940359271757
+1,Innovative,ret_OPT::average return,0.128860740553539
+1,Innovative,ret_OPT::average return,0.12785522462022753
+1,Innovative,ret_OPT::average return,0.126851333772075
+1,Innovative,ret_OPT::average return,0.12578169189940225
+1,Innovative,ret_OPT::average return,0.12480636197622062
+1,Innovative,ret_OPT::average return,0.1239366246868439
+1,Innovative,ret_OPT::average return,0.1230381436459512
+1,Innovative,ret_OPT::average return,0.12204677190013187
+1,Innovative,ret_OPT::average return,0.12113985212888209
+1,Innovative,ret_OPT::average return,0.12021808788910343
+1,Innovative,ret_OPT::average return,0.11936325930016471
+1,Innovative,ret_OPT::average return,0.11852048868063955
+1,Innovative,ret_OPT::average return,0.11762059869507892
+1,Innovative,ret_OPT::average return,0.1167671661890331
+1,Innovative,ret_OPT::average return,0.11591410289750997
+1,Innovative,ret_OPT::average return,0.11497985860138922
+1,Innovative,ret_OPT::average return,0.11414858235916997
+1,Innovative,ret_OPT::average return,0.11323503763369656
+1,Innovative,ret_OPT::average return,0.11232790047574769
+1,Innovative,ret_OPT::average return,0.1114737325828276
+1,Innovative,ret_OPT::average return,0.11053202154663722
+1,Innovative,ret_OPT::average return,0.10956165620620867
+1,Innovative,ret_OPT::average return,0.10860725855925227
+1,Innovative,ret_OPT::average return,0.10769985054461313
+1,Innovative,ret_OPT::average return,0.10687012970504121
+1,Innovative,ret_OPT::average return,0.10581392196456765
+1,Innovative,ret_OPT::average return,0.10481901240206706
+1,Innovative,ret_OPT::average return,0.10261721440357205
+1,Innovative,ret_OPT::average return,0.09857262852226177
+1,Innovative,ret_OPT::average return,0.09376296433372606
+1,Innovative,ret_OPT::average return,0.08855487026332799
+1,Innovative,ret_OPT::average return,0.0838901882199614
+1,Innovative,ret_OPT::average return,0.07867552145297947
+1,Innovative,ret_OPT::average return,0.07411988873349755
+1,Innovative,ret_OPT::average return,0.06881163878400968
+1,Innovative,ret_OPT::average return,0.06374338626185369
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.16268201185194567
+1,Innovative,ret_OPT::average return,0.13693133785740047
+1,Innovative,ret_OPT::average return,0.12578169189940225
+1,Innovative,ret_OPT::average return,0.1167671661890331
+1,Innovative,ret_OPT::average return,0.10769985054461313
+1,Innovative,ret_OPT::average return,0.07411988873349755
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Innovative,ret_OPT::average return,0.05882287651362793
+1,Greedy,ret_OPT::average return,0.17260475524261656
+1,Greedy,ret_OPT::average return,0.1510057536165999
+1,Greedy,ret_OPT::average return,0.14213568408221053
+1,Greedy,ret_OPT::average return,0.13576223036738938
+1,Greedy,ret_OPT::average return,0.13086017386477894
+1,Greedy,ret_OPT::average return,0.1266491638576666
+1,Greedy,ret_OPT::average return,0.12183019813814729
+1,Greedy,ret_OPT::average return,0.11655779912362127
+1,Greedy,ret_OPT::average return,0.11003089021846228
+1,Greedy,ret_OPT::average return,0.08236965900209925
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.77685]
+1,Gaussian Naive Bayes::roc_auc,0.6856551573307088
+1,l1 Penalized Logistic Regression::search_on_edge,False
+1,l1 Penalized Logistic Regression::score_variation,0.036516341062621506
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.82125 0.82145 0.82155 0.8215  0.82155 0.8215  0.82155 0.8215  0.8215
+ 0.82155]
+1,l1 Penalized Logistic Regression::roc_auc,0.7088620519970474
+1,l2 Penalized Logistic Regression::search_on_edge,True
+1,l2 Penalized Logistic Regression::score_variation,0.05476784518956508
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.8212  0.8212  0.8212  0.82125 0.8215  0.8214  0.8216  0.8216  0.8216
+ 0.82165]
+1,l2 Penalized Logistic Regression::roc_auc,0.708866221055797
+1,Decision tree::search_on_edge,True
+1,Decision tree::score_variation,0.0
+1,Decision tree::all_cv_scores,[0.8212 0.8212 0.8212 0.8212 0.8212 0.8212 0.8212 0.8212 0.8212]
+1,Decision tree::roc_auc,0.6892265712567319
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,115.09424987692027
+1,Lasso::all_cv_scores,[ 0.02217016  0.02217016  0.02218463  0.0226444   0.02367888  0.01338154
+ -0.00357415 -0.00357415]
+1,Lasso::ret_OPT::r2,0.027533708792462863
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.04122354052737594
+1,Ridge::all_cv_scores,[0.0226957  0.0226957  0.0226957  0.0226957  0.02269571 0.0226958
+ 0.02269666 0.02270506]
+1,Ridge::ret_OPT::r2,0.028963673779678678
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.02277334]
+1,Linear Regression::ret_OPT::r2,0.028902221422235086
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,False
+1,Multi-Layer Perceptron::ret_OPT::score_variation,233.26115221271382
+1,Multi-Layer Perceptron::all_cv_scores,[-0.00485698 -0.0047312  -0.028843   -0.01353399 -0.0257042  -0.01008323
+  0.00451694 -0.00596047  0.00528479 -0.01494605 -0.00208094 -0.01896093
+ -0.00739883  0.00956414 -0.01112133  0.00990293  0.01878819  0.0163172
+  0.02164397  0.01263445  0.02059565  0.00184973  0.01239366  0.00841407
+  0.00477535  0.00879478 -0.0013925  -0.00346559 -0.00337048 -0.00378952
+ -0.00305785 -0.0028263  -0.00812432 -0.00243315 -0.00712602 -0.00439974
+ -0.00400806 -0.00343585 -0.00149226 -0.00444679 -0.00524144 -0.00285852]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.022379674722688758
+1,Random forest regressor::ret_OPT::search_on_edge,True
+1,Random forest regressor::ret_OPT::score_variation,11.65245291190533
+1,Random forest regressor::all_cv_scores,[0.02155361 0.02439638 0.02251654 0.02345828 0.02349827 0.02404025
+ 0.02316154 0.02326188 0.02262634 0.02252524 0.0241183  0.0236095
+ 0.02282117 0.02385979 0.02317179 0.02307888 0.02346304 0.02401687
+ 0.02370234 0.02342952 0.02379817 0.02361249 0.02359655 0.02338563
+ 0.02383213 0.02361156 0.02381396 0.02346868 0.02311348 0.02365871
+ 0.02325306 0.02396081 0.02358584 0.02358187 0.02363825]
+1,Random forest regressor::ret_OPT::r2,0.0301822122830383
+1,Regression,ret_OPT::average return,0.07284314472699509
+1,Two-stage,ret_OPT::average return,0.13756576195383458
+1,Innovative,ret_OPT::average return,0.15335732067215582
+1,Innovative,ret_OPT::average return,0.12364179262732973
+1,Innovative,ret_OPT::average return,0.11053770199070852
+1,Innovative,ret_OPT::average return,0.10080421489536222
+1,Innovative,ret_OPT::average return,0.09270813073193582
+1,Innovative,ret_OPT::average return,0.06347255459224849
+1,Innovative,ret_OPT::average return,0.06347255459224849
+1,Innovative,ret_OPT::average return,0.06347255459224849
+1,Innovative,ret_OPT::average return,0.06347255459224849
+1,Innovative,ret_OPT::average return,0.06347255459224849
+1,Greedy,ret_OPT::average return,0.158436765240147
+1,Greedy,ret_OPT::average return,0.13493272253051045
+1,Greedy,ret_OPT::average return,0.126116021155965
+1,Greedy,ret_OPT::average return,0.12107222873340992
+1,Greedy,ret_OPT::average return,0.11623025154960011
+1,Greedy,ret_OPT::average return,0.1119096493587338
+1,Greedy,ret_OPT::average return,0.1081310093644735
+1,Greedy,ret_OPT::average return,0.10370861480639444
+1,Greedy,ret_OPT::average return,0.09844639124419202
+1,Greedy,ret_OPT::average return,0.08376745236629357
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.77685]
+1,Gaussian Naive Bayes::roc_auc,0.6856551573307088
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,115.09424987692027
+1,Lasso::all_cv_scores,[ 0.02217016  0.02217016  0.02218463  0.0226444   0.02367888  0.01338154
+ -0.00357415 -0.00357415]
+1,Lasso::ret_OPT::r2,0.027533708792462863
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,0.04122354052737594
+1,Ridge::all_cv_scores,[0.0226957  0.0226957  0.0226957  0.0226957  0.02269571 0.0226958
+ 0.02269666 0.02270506]
+1,Ridge::ret_OPT::r2,0.028963673779678678
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.02277334]
+1,Linear Regression::ret_OPT::r2,0.028902221422235086
+1,Regression,ret_OPT::average return,0.07284314472699509
+1,Two-stage,ret_OPT::average return,0.13756576195383458
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_OPT::average return,0.07284314472699509
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,115.09424987692027
+1,Lasso::all_cv_scores,[ 0.02217016  0.02217016  0.02218463  0.0226444   0.02367888  0.01338154
+ -0.00357415 -0.00357415]
+1,Lasso::ret_OPT::r2,0.027533708792462863
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Regression,ret_PESS::average return,0.05375489951081323
+1,Regression,ret_OPT::average return,0.04044605382473183
+1,Regression,ret_INTa::average return,0.02069946437814866
+1,Regression,ret_INTb::average return,0.06602192165784217
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.6701]
+1,Gaussian Naive Bayes::roc_auc,0.6855951638039858
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.6701]
+1,Gaussian Naive Bayes::roc_auc,0.6855951638039858
+1,l1 Penalized Logistic Regression::search_on_edge,True
+1,l1 Penalized Logistic Regression::score_variation,0.20437956204378935
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.685   0.6839  0.684   0.68375 0.6837  0.6837  0.68365 0.68365 0.6837
+ 0.6836 ]
+1,l1 Penalized Logistic Regression::roc_auc,0.7048542922665391
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,4.614485981308406
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.6532  0.65365 0.68255 0.6848  0.6845  0.68395 0.68375 0.6838  0.6838
+ 0.68375]
+1,l2 Penalized Logistic Regression::roc_auc,0.703701177133795
+1,Decision tree::search_on_edge,False
+1,Decision tree::score_variation,0.7244769719819643
+1,Decision tree::all_cv_scores,[0.67505 0.67535 0.67635 0.6749  0.67535 0.6745  0.6725  0.67145 0.6726 ]
+1,Decision tree::roc_auc,0.6872961237827528
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,137.93666579265934
+1,Lasso::all_cv_scores,[ 0.00972213  0.00974746  0.009782    0.01011701  0.01072395  0.00420217
+ -0.00406831 -0.00406831]
+1,Lasso::ret_OPT::r2,0.018278138070011773
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,1.0482020794188067
+1,Ridge::all_cv_scores,[0.0096632  0.0096632  0.00966322 0.0096634  0.00966518 0.00967944
+ 0.00972232 0.00976556]
+1,Ridge::ret_OPT::r2,0.01964631184485921
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,0.0
+1,Linear Regression::all_cv_scores,[0.0095824]
+1,Linear Regression::ret_OPT::r2,0.01965321013669541
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,False
+1,Multi-Layer Perceptron::ret_OPT::score_variation,1051.8231343067248
+1,Multi-Layer Perceptron::all_cv_scores,[-0.01486043 -0.01019285 -0.03511371 -0.06677197 -0.09512802 -0.03690734
+ -0.00220788 -0.02154897 -0.00291065 -0.02671474 -0.04827452 -0.0604706
+ -0.02477525 -0.0005296  -0.03408801 -0.00413353 -0.00353997  0.00309162
+  0.0099943   0.00523209  0.00144477 -0.00810524 -0.00041098  0.00196569
+ -0.00120212 -0.00529707 -0.00082136 -0.00477056 -0.00341289 -0.00337557
+ -0.00673588 -0.00814777 -0.00510664 -0.00545289 -0.00721045 -0.0040599
+ -0.00439516 -0.00319281 -0.00334136 -0.00607782 -0.00392574 -0.00477392]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.006771616600572128
+1,Random forest regressor::ret_OPT::search_on_edge,False
+1,Random forest regressor::ret_OPT::score_variation,15.341995993638047
+1,Random forest regressor::all_cv_scores,[0.01131929 0.01219336 0.01280234 0.01239268 0.01293475 0.01287572
+ 0.01290741 0.01134788 0.01297045 0.01271379 0.0130669  0.01288279
+ 0.01320122 0.0126381  0.01207527 0.01130581 0.01250089 0.01281824
+ 0.01265738 0.01309019 0.01213906 0.01168879 0.01245127 0.01196312
+ 0.01212854 0.01198709 0.01179299 0.01245245 0.01158315 0.01117954
+ 0.01130168 0.01163867 0.01145336 0.01141714 0.01117589]
+1,Random forest regressor::ret_OPT::r2,0.022766312632114594
+1,Regression,ret_PESS::average return,0.0251198687221717
+1,Regression,ret_OPT::average return,0.010825104386670266
+1,Regression,ret_INTa::average return,0.0009627169925827742
+1,Regression,ret_INTb::average return,0.035508431560926236
+1,Regression,ret_PESS::average return,0.0251198687221717
+1,Regression,ret_OPT::average return,0.010825104386670266
+1,Regression,ret_INTa::average return,0.0009627169925827742
+1,Regression,ret_INTb::average return,0.035508431560926236
+1,Two-stage,ret_PESS::average return,0.02194964835747662
+1,Two-stage,ret_OPT::average return,0.04108103977339708
+1,Two-stage,ret_INTa::average return,0.0505091544190241
+1,Two-stage,ret_INTb::average return,0.01972409078928543
+1,Innovative,ret_PESS::average return,0.08693855593395403
+1,Innovative,ret_OPT::average return,0.15008429889731725
+1,Innovative,ret_INTa::average return,0.09439416007723302
+1,Innovative,ret_INTb::average return,0.1087049989293969
+1,Innovative,ret_PESS::average return,0.07649060244033354
+1,Innovative,ret_OPT::average return,0.1208018501399005
+1,Innovative,ret_INTa::average return,0.07079857964739651
+1,Innovative,ret_INTb::average return,0.08673493632489815
+1,Innovative,ret_PESS::average return,0.06882869958809912
+1,Innovative,ret_OPT::average return,0.10592603381715228
+1,Innovative,ret_INTa::average return,0.06183909720964061
+1,Innovative,ret_INTb::average return,0.07836007438403716
+1,Innovative,ret_PESS::average return,0.059305098047556626
+1,Innovative,ret_OPT::average return,0.09535580497991951
+1,Innovative,ret_INTa::average return,0.05463890059952019
+1,Innovative,ret_INTb::average return,0.07176579963604235
+1,Innovative,ret_PESS::average return,0.03759890609088852
+1,Innovative,ret_OPT::average return,0.06796991314162812
+1,Innovative,ret_INTa::average return,0.03902592988052738
+1,Innovative,ret_INTb::average return,0.055500810198368056
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.08693855593395403
+1,Innovative,ret_OPT::average return,0.15008429889731725
+1,Innovative,ret_INTa::average return,0.09439416007723302
+1,Innovative,ret_INTb::average return,0.1087049989293969
+1,Innovative,ret_PESS::average return,0.07649060244033354
+1,Innovative,ret_OPT::average return,0.1208018501399005
+1,Innovative,ret_INTa::average return,0.07079857964739651
+1,Innovative,ret_INTb::average return,0.08673493632489815
+1,Innovative,ret_PESS::average return,0.06882869958809912
+1,Innovative,ret_OPT::average return,0.10592603381715228
+1,Innovative,ret_INTa::average return,0.06183909720964061
+1,Innovative,ret_INTb::average return,0.07836007438403716
+1,Innovative,ret_PESS::average return,0.059305098047556626
+1,Innovative,ret_OPT::average return,0.09535580497991951
+1,Innovative,ret_INTa::average return,0.05463890059952019
+1,Innovative,ret_INTb::average return,0.07176579963604235
+1,Innovative,ret_PESS::average return,0.03759890609088852
+1,Innovative,ret_OPT::average return,0.06796991314162812
+1,Innovative,ret_INTa::average return,0.03902592988052738
+1,Innovative,ret_INTb::average return,0.055500810198368056
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Innovative,ret_PESS::average return,0.009468129555875122
+1,Innovative,ret_OPT::average return,0.03561525480277199
+1,Innovative,ret_INTa::average return,0.016912552300368124
+1,Innovative,ret_INTb::average return,0.032010496948511484
+1,Greedy,ret_PESS::average return,0.017775541644524027
+1,Greedy,ret_OPT::average return,0.03434879802273266
+1,Greedy,ret_INTa::average return,-0.013040484471804434
+1,Greedy,ret_INTb::average return,0.031143404081052803
+1,Greedy,ret_PESS::average return,0.0039329374364168055
+1,Greedy,ret_OPT::average return,0.02375648471012498
+1,Greedy,ret_INTa::average return,0.008220221079490988
+1,Greedy,ret_INTb::average return,0.028282161418415323
+1,Greedy,ret_PESS::average return,0.005109069203810743
+1,Greedy,ret_OPT::average return,0.02596106772496188
+1,Greedy,ret_INTa::average return,0.011576121956797511
+1,Greedy,ret_INTb::average return,0.02949892786311022
+1,Greedy,ret_PESS::average return,0.0036839228580459594
+1,Greedy,ret_OPT::average return,0.027878521557073623
+1,Greedy,ret_INTa::average return,0.012385751036001473
+1,Greedy,ret_INTb::average return,0.0296128538718276
+1,Greedy,ret_PESS::average return,0.004712239396747524
+1,Greedy,ret_OPT::average return,0.02823660981267516
+1,Greedy,ret_INTa::average return,0.013017821472067776
+1,Greedy,ret_INTb::average return,0.029119863140331843
+1,Greedy,ret_PESS::average return,0.004576040951892483
+1,Greedy,ret_OPT::average return,0.028241940789557975
+1,Greedy,ret_INTa::average return,0.013007138086555787
+1,Greedy,ret_INTb::average return,0.027968146819617817
+1,Greedy,ret_PESS::average return,0.005379910777635824
+1,Greedy,ret_OPT::average return,0.02958484498662236
+1,Greedy,ret_INTa::average return,0.013453381190382533
+1,Greedy,ret_INTb::average return,0.028776132760005894
+1,Greedy,ret_PESS::average return,0.00520727001111439
+1,Greedy,ret_OPT::average return,0.030303834714693303
+1,Greedy,ret_INTa::average return,0.013704031612165315
+1,Greedy,ret_INTb::average return,0.028188656521290385
+1,Greedy,ret_PESS::average return,0.005167433322270658
+1,Greedy,ret_OPT::average return,0.03110628430160425
+1,Greedy,ret_INTa::average return,0.014011344068675345
+1,Greedy,ret_INTb::average return,0.02799418108710749
+1,Greedy,ret_PESS::average return,0.005304168057481331
+1,Greedy,ret_OPT::average return,0.03097231506062971
+1,Greedy,ret_INTa::average return,0.013670173284525506
+1,Greedy,ret_INTb::average return,0.027555673112142933
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7391]
+1,Gaussian Naive Bayes::roc_auc,0.6826911801881337
+1,l1 Penalized Logistic Regression::search_on_edge,False
+1,l1 Penalized Logistic Regression::score_variation,0.019496977968412748
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.7692  0.7692  0.76935 0.76925 0.76925 0.76925 0.76925 0.76925 0.76925
+ 0.76925]
+1,l1 Penalized Logistic Regression::roc_auc,0.7048061578573462
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,0.11698186781049093
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.7685  0.7685  0.76845 0.76935 0.76935 0.76915 0.76925 0.76925 0.7692
+ 0.7692 ]
+1,l2 Penalized Logistic Regression::roc_auc,0.7041470411823365
+1,Decision tree::search_on_edge,False
+1,Decision tree::score_variation,0.4554326610279698
+1,Decision tree::all_cv_scores,[0.76765 0.7657  0.765   0.7673  0.76755 0.7685  0.7685  0.7685  0.7685 ]
+1,Decision tree::roc_auc,0.6879917413975589
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,-54.27776135990114
+1,Lasso::all_cv_scores,[-0.03786181 -0.03786181 -0.03785794 -0.0379503  -0.03917815 -0.05248008
+ -0.05840638 -0.05840638]
+1,Lasso::ret_OPT::r2,0.015472817134848937
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,-0.00020488510015831068
+1,Ridge::all_cv_scores,[-0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.0378618
+ -0.03786178 -0.03786173]
+1,Ridge::ret_OPT::r2,0.015423426346644509
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.03788349]
+1,Linear Regression::ret_OPT::r2,0.015624023710070545
+1,Regression,ret_PESS::average return,-0.0008076196597969575
+1,Regression,ret_OPT::average return,0.05304870357231109
+1,Regression,ret_INTa::average return,0.028756789285587538
+1,Regression,ret_INTb::average return,0.050244980958383985
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.00770472679797598
+1,Greedy,ret_OPT::average return,0.05370818473774793
+1,Greedy,ret_INTa::average return,0.024431054057489812
+1,Greedy,ret_INTb::average return,0.043035776817183756
+1,Greedy,ret_PESS::average return,0.020614527782976764
+1,Greedy,ret_OPT::average return,0.05365728937742393
+1,Greedy,ret_INTa::average return,0.023388583631083964
+1,Greedy,ret_INTb::average return,0.03895580745313012
+1,Greedy,ret_PESS::average return,0.017936216910508604
+1,Greedy,ret_OPT::average return,0.052900899349696565
+1,Greedy,ret_INTa::average return,0.024979037296174282
+1,Greedy,ret_INTb::average return,0.04082582022452333
+1,Greedy,ret_PESS::average return,0.019586277707153297
+1,Greedy,ret_OPT::average return,0.050623698329504155
+1,Greedy,ret_INTa::average return,0.02502048992170899
+1,Greedy,ret_INTb::average return,0.04065969512670068
+1,Greedy,ret_PESS::average return,0.018673050087509146
+1,Greedy,ret_OPT::average return,0.05122488043665032
+1,Greedy,ret_INTa::average return,0.02474836267778288
+1,Greedy,ret_INTb::average return,0.04222624368037071
+1,Greedy,ret_PESS::average return,0.01915197976110596
+1,Greedy,ret_OPT::average return,0.05092282095099709
+1,Greedy,ret_INTa::average return,0.025084201445182894
+1,Greedy,ret_INTb::average return,0.04198227281274929
+1,Greedy,ret_PESS::average return,0.01977751974336644
+1,Greedy,ret_OPT::average return,0.051674315869259295
+1,Greedy,ret_INTa::average return,0.025191111867393933
+1,Greedy,ret_INTb::average return,0.04242419522705145
+1,Greedy,ret_PESS::average return,0.020203466253391086
+1,Greedy,ret_OPT::average return,0.0508721944789587
+1,Greedy,ret_INTa::average return,0.025853525046267
+1,Greedy,ret_INTb::average return,0.04169693858262936
+1,Greedy,ret_PESS::average return,0.020838652565456424
+1,Greedy,ret_OPT::average return,0.05057909295645068
+1,Greedy,ret_INTa::average return,0.026244398523129535
+1,Greedy,ret_INTb::average return,0.041559885337777644
+1,Greedy,ret_PESS::average return,0.02101520880033154
+1,Greedy,ret_OPT::average return,0.050805750170836085
+1,Greedy,ret_INTa::average return,0.026384683986053845
+1,Greedy,ret_INTb::average return,0.04160864148718115
+1,Regression,ret_PESS::average return,-0.0008076196597969575
+1,Regression,ret_OPT::average return,0.05304870357231109
+1,Regression,ret_INTa::average return,0.028756789285587538
+1,Regression,ret_INTb::average return,0.050244980958383985
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.00770472679797598
+1,Greedy,ret_OPT::average return,0.05370818473774793
+1,Greedy,ret_INTa::average return,0.024431054057489812
+1,Greedy,ret_INTb::average return,0.043035776817183756
+1,Greedy,ret_PESS::average return,0.020614527782976764
+1,Greedy,ret_OPT::average return,0.05365728937742393
+1,Greedy,ret_INTa::average return,0.023388583631083964
+1,Greedy,ret_INTb::average return,0.03895580745313012
+1,Greedy,ret_PESS::average return,0.017936216910508604
+1,Greedy,ret_OPT::average return,0.052900899349696565
+1,Greedy,ret_INTa::average return,0.024979037296174282
+1,Greedy,ret_INTb::average return,0.04082582022452333
+1,Greedy,ret_PESS::average return,0.019586277707153297
+1,Greedy,ret_OPT::average return,0.050623698329504155
+1,Greedy,ret_INTa::average return,0.02502048992170899
+1,Greedy,ret_INTb::average return,0.04065969512670068
+1,Greedy,ret_PESS::average return,0.018673050087509146
+1,Greedy,ret_OPT::average return,0.05122488043665032
+1,Greedy,ret_INTa::average return,0.02474836267778288
+1,Greedy,ret_INTb::average return,0.04222624368037071
+1,Greedy,ret_PESS::average return,0.01915197976110596
+1,Greedy,ret_OPT::average return,0.05092282095099709
+1,Greedy,ret_INTa::average return,0.025084201445182894
+1,Greedy,ret_INTb::average return,0.04198227281274929
+1,Greedy,ret_PESS::average return,0.01977751974336644
+1,Greedy,ret_OPT::average return,0.051674315869259295
+1,Greedy,ret_INTa::average return,0.025191111867393933
+1,Greedy,ret_INTb::average return,0.04242419522705145
+1,Greedy,ret_PESS::average return,0.020203466253391086
+1,Greedy,ret_OPT::average return,0.0508721944789587
+1,Greedy,ret_INTa::average return,0.025853525046267
+1,Greedy,ret_INTb::average return,0.04169693858262936
+1,Greedy,ret_PESS::average return,0.020838652565456424
+1,Greedy,ret_OPT::average return,0.05057909295645068
+1,Greedy,ret_INTa::average return,0.026244398523129535
+1,Greedy,ret_INTb::average return,0.041559885337777644
+1,Greedy,ret_PESS::average return,0.02101520880033154
+1,Greedy,ret_OPT::average return,0.050805750170836085
+1,Greedy,ret_INTa::average return,0.026384683986053845
+1,Greedy,ret_INTb::average return,0.04160864148718115
+1,Regression,ret_PESS::average return,-0.0008076196597969575
+1,Regression,ret_OPT::average return,0.05304870357231109
+1,Regression,ret_INTa::average return,0.028756789285587538
+1,Regression,ret_INTb::average return,0.050244980958383985
+1,Two-stage,ret_PESS::average return,0.020932471158642555
+1,Two-stage,ret_OPT::average return,0.04450596987480206
+1,Two-stage,ret_INTa::average return,0.015665994734794617
+1,Two-stage,ret_INTb::average return,0.04072617116419944
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.00770472679797598
+1,Greedy,ret_OPT::average return,0.05370818473774793
+1,Greedy,ret_INTa::average return,0.024431054057489812
+1,Greedy,ret_INTb::average return,0.043035776817183756
+1,Greedy,ret_PESS::average return,0.020614527782976764
+1,Greedy,ret_OPT::average return,0.05365728937742393
+1,Greedy,ret_INTa::average return,0.023388583631083964
+1,Greedy,ret_INTb::average return,0.03895580745313012
+1,Greedy,ret_PESS::average return,0.017936216910508604
+1,Greedy,ret_OPT::average return,0.052900899349696565
+1,Greedy,ret_INTa::average return,0.024979037296174282
+1,Greedy,ret_INTb::average return,0.04082582022452333
+1,Greedy,ret_PESS::average return,0.019586277707153297
+1,Greedy,ret_OPT::average return,0.050623698329504155
+1,Greedy,ret_INTa::average return,0.02502048992170899
+1,Greedy,ret_INTb::average return,0.04065969512670068
+1,Greedy,ret_PESS::average return,0.018673050087509146
+1,Greedy,ret_OPT::average return,0.05122488043665032
+1,Greedy,ret_INTa::average return,0.02474836267778288
+1,Greedy,ret_INTb::average return,0.04222624368037071
+1,Greedy,ret_PESS::average return,0.01915197976110596
+1,Greedy,ret_OPT::average return,0.05092282095099709
+1,Greedy,ret_INTa::average return,0.025084201445182894
+1,Greedy,ret_INTb::average return,0.04198227281274929
+1,Greedy,ret_PESS::average return,0.01977751974336644
+1,Greedy,ret_OPT::average return,0.051674315869259295
+1,Greedy,ret_INTa::average return,0.025191111867393933
+1,Greedy,ret_INTb::average return,0.04242419522705145
+1,Greedy,ret_PESS::average return,0.020203466253391086
+1,Greedy,ret_OPT::average return,0.0508721944789587
+1,Greedy,ret_INTa::average return,0.025853525046267
+1,Greedy,ret_INTb::average return,0.04169693858262936
+1,Greedy,ret_PESS::average return,0.020838652565456424
+1,Greedy,ret_OPT::average return,0.05057909295645068
+1,Greedy,ret_INTa::average return,0.026244398523129535
+1,Greedy,ret_INTb::average return,0.041559885337777644
+1,Greedy,ret_PESS::average return,0.02101520880033154
+1,Greedy,ret_OPT::average return,0.050805750170836085
+1,Greedy,ret_INTa::average return,0.026384683986053845
+1,Greedy,ret_INTb::average return,0.04160864148718115
+1,Regression,ret_PESS::average return,-0.0008076196597969575
+1,Regression,ret_OPT::average return,0.05304870357231109
+1,Regression,ret_INTa::average return,0.028756789285587538
+1,Regression,ret_INTb::average return,0.050244980958383985
+1,Regression,ret_PESS::average return,-0.0008076196597969575
+1,Regression,ret_OPT::average return,0.05304870357231109
+1,Regression,ret_INTa::average return,0.028756789285587538
+1,Regression,ret_INTb::average return,0.050244980958383985
+1,Two-stage,ret_PESS::average return,0.020932471158642555
+1,Two-stage,ret_OPT::average return,0.04450596987480206
+1,Two-stage,ret_INTa::average return,0.015665994734794617
+1,Two-stage,ret_INTb::average return,0.04072617116419944
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.00770472679797598
+1,Greedy,ret_OPT::average return,0.05370818473774793
+1,Greedy,ret_INTa::average return,0.024431054057489812
+1,Greedy,ret_INTb::average return,0.043035776817183756
+1,Greedy,ret_PESS::average return,0.020614527782976764
+1,Greedy,ret_OPT::average return,0.05365728937742393
+1,Greedy,ret_INTa::average return,0.023388583631083964
+1,Greedy,ret_INTb::average return,0.03895580745313012
+1,Greedy,ret_PESS::average return,0.017936216910508604
+1,Greedy,ret_OPT::average return,0.052900899349696565
+1,Greedy,ret_INTa::average return,0.024979037296174282
+1,Greedy,ret_INTb::average return,0.04082582022452333
+1,Greedy,ret_PESS::average return,0.019586277707153297
+1,Greedy,ret_OPT::average return,0.050623698329504155
+1,Greedy,ret_INTa::average return,0.02502048992170899
+1,Greedy,ret_INTb::average return,0.04065969512670068
+1,Greedy,ret_PESS::average return,0.018673050087509146
+1,Greedy,ret_OPT::average return,0.05122488043665032
+1,Greedy,ret_INTa::average return,0.02474836267778288
+1,Greedy,ret_INTb::average return,0.04222624368037071
+1,Greedy,ret_PESS::average return,0.01915197976110596
+1,Greedy,ret_OPT::average return,0.05092282095099709
+1,Greedy,ret_INTa::average return,0.025084201445182894
+1,Greedy,ret_INTb::average return,0.04198227281274929
+1,Greedy,ret_PESS::average return,0.01977751974336644
+1,Greedy,ret_OPT::average return,0.051674315869259295
+1,Greedy,ret_INTa::average return,0.025191111867393933
+1,Greedy,ret_INTb::average return,0.04242419522705145
+1,Greedy,ret_PESS::average return,0.020203466253391086
+1,Greedy,ret_OPT::average return,0.0508721944789587
+1,Greedy,ret_INTa::average return,0.025853525046267
+1,Greedy,ret_INTb::average return,0.04169693858262936
+1,Greedy,ret_PESS::average return,0.020838652565456424
+1,Greedy,ret_OPT::average return,0.05057909295645068
+1,Greedy,ret_INTa::average return,0.026244398523129535
+1,Greedy,ret_INTb::average return,0.041559885337777644
+1,Greedy,ret_PESS::average return,0.02101520880033154
+1,Greedy,ret_OPT::average return,0.050805750170836085
+1,Greedy,ret_INTa::average return,0.026384683986053845
+1,Greedy,ret_INTb::average return,0.04160864148718115
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7391]
+1,Gaussian Naive Bayes::roc_auc,0.6826911801881337
+1,l1 Penalized Logistic Regression::search_on_edge,False
+1,l1 Penalized Logistic Regression::score_variation,0.019496977968412748
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.7692  0.7692  0.76935 0.76925 0.76925 0.76925 0.76925 0.76925 0.76925
+ 0.76925]
+1,l1 Penalized Logistic Regression::roc_auc,0.7048061578573462
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,0.11698186781049093
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.7685  0.7685  0.76845 0.76935 0.76935 0.76915 0.76925 0.76925 0.7692
+ 0.7692 ]
+1,l2 Penalized Logistic Regression::roc_auc,0.7041470411823365
+1,Decision tree::search_on_edge,False
+1,Decision tree::score_variation,0.4554326610279698
+1,Decision tree::all_cv_scores,[0.76765 0.7657  0.765   0.7673  0.76755 0.7685  0.7685  0.7685  0.7685 ]
+1,Decision tree::roc_auc,0.6879917413975589
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-9.554864636994763
+1,Lasso::all_cv_scores,[-0.05287506 -0.05287506 -0.05282076 -0.0529931  -0.05262695 -0.05765538
+ -0.0575836  -0.0575836 ]
+1,Lasso::ret_PESS::r2,0.007745976569355828
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,-54.27776135990114
+1,Lasso::all_cv_scores,[-0.03786181 -0.03786181 -0.03785794 -0.0379503  -0.03917815 -0.05248008
+ -0.05840638 -0.05840638]
+1,Lasso::ret_OPT::r2,0.015472817134848937
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-19.68240768460163
+1,Lasso::all_cv_scores,[-0.04608593 -0.04608593 -0.04605599 -0.04608087 -0.04664105 -0.0546005
+ -0.05512092 -0.05512092]
+1,Lasso::ret_INTa::r2,0.00936497448925977
+1,Lasso::ret_INTb::search_on_edge,True
+1,Lasso::ret_INTb::score_variation,-15.951993183067028
+1,Lasso::all_cv_scores,[-0.05000616 -0.05000616 -0.05000757 -0.05014486 -0.05072535 -0.05798314
+ -0.05729512 -0.05729512]
+1,Lasso::ret_INTb::r2,0.008428007706901997
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-0.003938064991780134
+1,Ridge::all_cv_scores,[-0.05294164 -0.05294164 -0.05294164 -0.05294164 -0.05294164 -0.05294162
+ -0.05294142 -0.05293955]
+1,Ridge::ret_PESS::r2,0.008224292611802131
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,-0.00020488510015831068
+1,Ridge::all_cv_scores,[-0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.0378618
+ -0.03786178 -0.03786173]
+1,Ridge::ret_OPT::r2,0.015423426346644509
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-0.001934666203602609
+1,Ridge::all_cv_scores,[-0.04606497 -0.04606497 -0.04606497 -0.04606497 -0.04606497 -0.04606496
+ -0.04606487 -0.04606408]
+1,Ridge::ret_INTa::r2,0.009303002434927543
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,-0.001256922082499373
+1,Ridge::all_cv_scores,[-0.05015711 -0.05015711 -0.05015711 -0.05015711 -0.05015711 -0.0501571
+ -0.05015703 -0.05015648]
+1,Ridge::ret_INTb::r2,0.008444327422550635
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.05297444]
+1,Linear Regression::ret_PESS::r2,0.008347387204119316
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.03788349]
+1,Linear Regression::ret_OPT::r2,0.015624023710070545
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.04636003]
+1,Linear Regression::ret_INTa::r2,0.009486795602898446
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.05040477]
+1,Linear Regression::ret_INTb::r2,0.008625319945736787
+1,Multi-Layer Perceptron::ret_PESS::search_on_edge,False
+1,Multi-Layer Perceptron::ret_PESS::score_variation,-432.3259079358511
+1,Multi-Layer Perceptron::all_cv_scores,[-0.06927751 -0.07632998 -0.11748198 -0.09132463 -0.06935953 -0.09638314
+ -0.08691598 -0.08422373 -0.07125144 -0.08180854 -0.135841   -0.11820167
+ -0.06742239 -0.06817043 -0.08925714 -0.08556645 -0.06744964 -0.09413034
+ -0.02551839 -0.06080364 -0.05123929 -0.07990835 -0.04684017 -0.04351611
+ -0.05859265 -0.08129371 -0.06786879 -0.0568834  -0.05553729 -0.05756974
+ -0.07261491 -0.05898797 -0.08186741 -0.04213438 -0.04653621 -0.05508724
+ -0.06125776 -0.05643679 -0.04310715 -0.06413934 -0.05430709 -0.05540264]
+1,Multi-Layer Perceptron::ret_PESS::r2,0.005788541571650652
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,False
+1,Multi-Layer Perceptron::ret_OPT::score_variation,-144.2875775888605
+1,Multi-Layer Perceptron::all_cv_scores,[-0.0658276  -0.06172574 -0.07261612 -0.08674689 -0.0461712  -0.05522412
+ -0.07708195 -0.07182859 -0.09399736 -0.05742392 -0.08970617 -0.06151262
+ -0.05163921 -0.05871161 -0.07911437 -0.05283037 -0.05717244 -0.05949191
+ -0.05333526 -0.07494527 -0.04880988 -0.05386118 -0.05102374 -0.0712854
+ -0.0574156  -0.03847816 -0.05332314 -0.04440024 -0.05774605 -0.05871973
+ -0.07374812 -0.05685467 -0.05683022 -0.06318912 -0.04441311 -0.05739399
+ -0.06020418 -0.05671557 -0.06434929 -0.05725167 -0.05972766 -0.0550668 ]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.001220646048548879
+1,Multi-Layer Perceptron::ret_INTa::search_on_edge,True
+1,Multi-Layer Perceptron::ret_INTa::score_variation,-498.62169420171045
+1,Multi-Layer Perceptron::all_cv_scores,[-0.05650706 -0.13074476 -0.08857981 -0.09460317 -0.14148536 -0.09214423
+ -0.04722122 -0.09321281 -0.09189996 -0.10899947 -0.09925079 -0.07082615
+ -0.08066365 -0.07662869 -0.07720656 -0.05764219 -0.04377908 -0.06469789
+ -0.06756396 -0.04502453 -0.02363519 -0.06517524 -0.04893458 -0.06126325
+ -0.05044188 -0.05364172 -0.05975358 -0.07955883 -0.05833749 -0.05883162
+ -0.05969439 -0.0552903  -0.03995366 -0.04546379 -0.05597047 -0.05148506
+ -0.05144541 -0.05125036 -0.05276949 -0.06996649 -0.052925   -0.06358979]
+1,Multi-Layer Perceptron::ret_INTa::r2,-0.00261758299378001
+1,Multi-Layer Perceptron::ret_INTb::search_on_edge,False
+1,Multi-Layer Perceptron::ret_INTb::score_variation,-513.3913793077256
+1,Multi-Layer Perceptron::all_cv_scores,[-0.09060524 -0.12925714 -0.13970983 -0.10877069 -0.15907111 -0.09545245
+ -0.06367564 -0.07496643 -0.12956916 -0.10380891 -0.13463347 -0.11193535
+ -0.06735349 -0.08332031 -0.12158567 -0.05030321 -0.05757049 -0.02593305
+ -0.0593724  -0.07025775 -0.06762326 -0.07741923 -0.04640269 -0.02996042
+ -0.04966447 -0.07202627 -0.05100338 -0.04567602 -0.05407895 -0.06401522
+ -0.04580958 -0.05762028 -0.07025873 -0.05393991 -0.05866423 -0.05798674
+ -0.05868174 -0.05312491 -0.06215416 -0.06060918 -0.05575893 -0.05703673]
+1,Multi-Layer Perceptron::ret_INTb::r2,0.003304104356725013
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Regression,ret_PESS::average return,0.01391608205367312
+1,Regression,ret_OPT::average return,0.04990869813947295
+1,Regression,ret_INTa::average return,0.021812042184004947
+1,Regression,ret_INTb::average return,0.045517492481948335
+1,Regression,ret_PESS::average return,-0.0008076196597969575
+1,Regression,ret_OPT::average return,0.05304870357231109
+1,Regression,ret_INTa::average return,0.028756789285587538
+1,Regression,ret_INTb::average return,0.050244980958383985
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Regression,ret_PESS::average return,0.014811819692511283
+1,Regression,ret_OPT::average return,0.050615817741830924
+1,Regression,ret_INTa::average return,0.02151430599853324
+1,Regression,ret_INTb::average return,0.044788404119542206
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Two-stage,ret_PESS::average return,0.02717353091974596
+1,Two-stage,ret_OPT::average return,0.03828778101234537
+1,Two-stage,ret_INTa::average return,0.024448123880126234
+1,Two-stage,ret_INTb::average return,0.026172887744315178
+1,Two-stage,ret_PESS::average return,0.028888809707927152
+1,Two-stage,ret_OPT::average return,0.04947064949270251
+1,Two-stage,ret_INTa::average return,0.02922788160933793
+1,Two-stage,ret_INTb::average return,0.05285735492534639
+1,Two-stage,ret_PESS::average return,-0.02190490869890069
+1,Two-stage,ret_OPT::average return,0.06833514357026109
+1,Two-stage,ret_INTa::average return,0.022366589410162653
+1,Two-stage,ret_INTb::average return,0.05013732226624538
+1,Two-stage,ret_PESS::average return,0.028888809707927152
+1,Two-stage,ret_OPT::average return,0.04947064949270251
+1,Two-stage,ret_INTa::average return,0.02922788160933793
+1,Two-stage,ret_INTb::average return,0.05285735492534639
+1,Two-stage,ret_PESS::average return,0.028888809707927152
+1,Two-stage,ret_OPT::average return,0.04947064949270251
+1,Two-stage,ret_INTa::average return,0.02922788160933793
+1,Two-stage,ret_INTb::average return,0.05285735492534639
+1,Two-stage,ret_PESS::average return,0.028888809707927152
+1,Two-stage,ret_OPT::average return,0.04947064949270251
+1,Two-stage,ret_INTa::average return,0.02922788160933793
+1,Two-stage,ret_INTb::average return,0.05285735492534639
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Two-stage,ret_PESS::average return,0.02717353091974596
+1,Two-stage,ret_OPT::average return,0.03828778101234537
+1,Two-stage,ret_INTa::average return,0.024448123880126234
+1,Two-stage,ret_INTb::average return,0.026172887744315178
+1,Two-stage,ret_PESS::average return,0.02717353091974596
+1,Two-stage,ret_OPT::average return,0.03828778101234537
+1,Two-stage,ret_INTa::average return,0.024448123880126234
+1,Two-stage,ret_INTb::average return,0.026172887744315178
+1,Two-stage,ret_PESS::average return,0.028888809707927152
+1,Two-stage,ret_OPT::average return,0.04947064949270251
+1,Two-stage,ret_INTa::average return,0.02922788160933793
+1,Two-stage,ret_INTb::average return,0.05285735492534639
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7391]
+1,Gaussian Naive Bayes::roc_auc,0.6826911801881337
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,0.11698186781049093
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.7685  0.7685  0.76845 0.76935 0.76935 0.76915 0.76925 0.76925 0.7692
+ 0.7692 ]
+1,l2 Penalized Logistic Regression::roc_auc,0.7041470411823365
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Two-stage,ret_PESS::average return,0.02717353091974596
+1,Two-stage,ret_OPT::average return,0.03828778101234537
+1,Two-stage,ret_INTa::average return,0.024448123880126234
+1,Two-stage,ret_INTb::average return,0.026172887744315178
+1,Two-stage,ret_PESS::average return,0.028888809707927152
+1,Two-stage,ret_OPT::average return,0.04947064949270251
+1,Two-stage,ret_INTa::average return,0.02922788160933793
+1,Two-stage,ret_INTb::average return,0.05285735492534639
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.00770472679797598
+1,Greedy,ret_OPT::average return,0.05370818473774793
+1,Greedy,ret_INTa::average return,0.024431054057489812
+1,Greedy,ret_INTb::average return,0.043035776817183756
+1,Greedy,ret_PESS::average return,0.020614527782976764
+1,Greedy,ret_OPT::average return,0.05365728937742393
+1,Greedy,ret_INTa::average return,0.023388583631083964
+1,Greedy,ret_INTb::average return,0.03895580745313012
+1,Greedy,ret_PESS::average return,0.017936216910508604
+1,Greedy,ret_OPT::average return,0.052900899349696565
+1,Greedy,ret_INTa::average return,0.024979037296174282
+1,Greedy,ret_INTb::average return,0.04082582022452333
+1,Greedy,ret_PESS::average return,0.019586277707153297
+1,Greedy,ret_OPT::average return,0.050623698329504155
+1,Greedy,ret_INTa::average return,0.02502048992170899
+1,Greedy,ret_INTb::average return,0.04065969512670068
+1,Greedy,ret_PESS::average return,0.018673050087509146
+1,Greedy,ret_OPT::average return,0.05122488043665032
+1,Greedy,ret_INTa::average return,0.02474836267778288
+1,Greedy,ret_INTb::average return,0.04222624368037071
+1,Greedy,ret_PESS::average return,0.01915197976110596
+1,Greedy,ret_OPT::average return,0.05092282095099709
+1,Greedy,ret_INTa::average return,0.025084201445182894
+1,Greedy,ret_INTb::average return,0.04198227281274929
+1,Greedy,ret_PESS::average return,0.01977751974336644
+1,Greedy,ret_OPT::average return,0.051674315869259295
+1,Greedy,ret_INTa::average return,0.025191111867393933
+1,Greedy,ret_INTb::average return,0.04242419522705145
+1,Greedy,ret_PESS::average return,0.020203466253391086
+1,Greedy,ret_OPT::average return,0.0508721944789587
+1,Greedy,ret_INTa::average return,0.025853525046267
+1,Greedy,ret_INTb::average return,0.04169693858262936
+1,Greedy,ret_PESS::average return,0.020838652565456424
+1,Greedy,ret_OPT::average return,0.05057909295645068
+1,Greedy,ret_INTa::average return,0.026244398523129535
+1,Greedy,ret_INTb::average return,0.041559885337777644
+1,Greedy,ret_PESS::average return,0.02101520880033154
+1,Greedy,ret_OPT::average return,0.050805750170836085
+1,Greedy,ret_INTa::average return,0.026384683986053845
+1,Greedy,ret_INTb::average return,0.04160864148718115
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7391]
+1,Gaussian Naive Bayes::roc_auc,0.6826911801881337
+1,l1 Penalized Logistic Regression::search_on_edge,False
+1,l1 Penalized Logistic Regression::score_variation,0.019496977968412748
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.7692  0.7692  0.76935 0.76925 0.76925 0.76925 0.76925 0.76925 0.76925
+ 0.76925]
+1,l1 Penalized Logistic Regression::roc_auc,0.7048061578573462
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,0.11698186781049093
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.7685  0.7685  0.76845 0.76935 0.76935 0.76915 0.76925 0.76925 0.7692
+ 0.7692 ]
+1,l2 Penalized Logistic Regression::roc_auc,0.7041470411823365
+1,Random forest::search_on_edge,False
+1,Random forest::score_variation,1.0451152223303837
+1,Random forest::all_cv_scores,[0.7622  0.76405 0.7664  0.7666  0.7668  0.7645  0.76385 0.7677  0.76615
+ 0.7673  0.76755 0.7658  0.7673  0.7679  0.7679  0.7679  0.7672  0.76675
+ 0.7683  0.7679  0.7676  0.7682  0.7683  0.7675  0.76765 0.7687  0.7673
+ 0.76955 0.7688  0.76785 0.76895 0.76855 0.7683  0.7689  0.7687  0.7679
+ 0.76815 0.76885 0.77025 0.76825 0.76865 0.76785 0.7683  0.7684  0.76885]
+1,Random forest::roc_auc,0.6983539257909908
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-9.554864636994763
+1,Lasso::all_cv_scores,[-0.05287506 -0.05287506 -0.05282076 -0.0529931  -0.05262695 -0.05765538
+ -0.0575836  -0.0575836 ]
+1,Lasso::ret_PESS::r2,0.007745976569355828
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,-54.27776135990114
+1,Lasso::all_cv_scores,[-0.03786181 -0.03786181 -0.03785794 -0.0379503  -0.03917815 -0.05248008
+ -0.05840638 -0.05840638]
+1,Lasso::ret_OPT::r2,0.015472817134848937
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-19.68240768460163
+1,Lasso::all_cv_scores,[-0.04608593 -0.04608593 -0.04605599 -0.04608087 -0.04664105 -0.0546005
+ -0.05512092 -0.05512092]
+1,Lasso::ret_INTa::r2,0.00936497448925977
+1,Lasso::ret_INTb::search_on_edge,True
+1,Lasso::ret_INTb::score_variation,-15.951993183067028
+1,Lasso::all_cv_scores,[-0.05000616 -0.05000616 -0.05000757 -0.05014486 -0.05072535 -0.05798314
+ -0.05729512 -0.05729512]
+1,Lasso::ret_INTb::r2,0.008428007706901997
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-0.003938064991780134
+1,Ridge::all_cv_scores,[-0.05294164 -0.05294164 -0.05294164 -0.05294164 -0.05294164 -0.05294162
+ -0.05294142 -0.05293955]
+1,Ridge::ret_PESS::r2,0.008224292611802131
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,-0.00020488510015831068
+1,Ridge::all_cv_scores,[-0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.0378618
+ -0.03786178 -0.03786173]
+1,Ridge::ret_OPT::r2,0.015423426346644509
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-0.001934666203602609
+1,Ridge::all_cv_scores,[-0.04606497 -0.04606497 -0.04606497 -0.04606497 -0.04606497 -0.04606496
+ -0.04606487 -0.04606408]
+1,Ridge::ret_INTa::r2,0.009303002434927543
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,-0.001256922082499373
+1,Ridge::all_cv_scores,[-0.05015711 -0.05015711 -0.05015711 -0.05015711 -0.05015711 -0.0501571
+ -0.05015703 -0.05015648]
+1,Ridge::ret_INTb::r2,0.008444327422550635
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.05297444]
+1,Linear Regression::ret_PESS::r2,0.008347387204119316
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.03788349]
+1,Linear Regression::ret_OPT::r2,0.015624023710070545
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.04636003]
+1,Linear Regression::ret_INTa::r2,0.009486795602898446
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.05040477]
+1,Linear Regression::ret_INTb::r2,0.008625319945736787
+1,Multi-Layer Perceptron::ret_PESS::search_on_edge,False
+1,Multi-Layer Perceptron::ret_PESS::score_variation,-432.3259079358511
+1,Multi-Layer Perceptron::all_cv_scores,[-0.06927751 -0.07632998 -0.11748198 -0.09132463 -0.06935953 -0.09638314
+ -0.08691598 -0.08422373 -0.07125144 -0.08180854 -0.135841   -0.11820167
+ -0.06742239 -0.06817043 -0.08925714 -0.08556645 -0.06744964 -0.09413034
+ -0.02551839 -0.06080364 -0.05123929 -0.07990835 -0.04684017 -0.04351611
+ -0.05859265 -0.08129371 -0.06786879 -0.0568834  -0.05553729 -0.05756974
+ -0.07261491 -0.05898797 -0.08186741 -0.04213438 -0.04653621 -0.05508724
+ -0.06125776 -0.05643679 -0.04310715 -0.06413934 -0.05430709 -0.05540264]
+1,Multi-Layer Perceptron::ret_PESS::r2,0.005788541571650652
+1,Multi-Layer Perceptron::ret_OPT::search_on_edge,False
+1,Multi-Layer Perceptron::ret_OPT::score_variation,-144.2875775888605
+1,Multi-Layer Perceptron::all_cv_scores,[-0.0658276  -0.06172574 -0.07261612 -0.08674689 -0.0461712  -0.05522412
+ -0.07708195 -0.07182859 -0.09399736 -0.05742392 -0.08970617 -0.06151262
+ -0.05163921 -0.05871161 -0.07911437 -0.05283037 -0.05717244 -0.05949191
+ -0.05333526 -0.07494527 -0.04880988 -0.05386118 -0.05102374 -0.0712854
+ -0.0574156  -0.03847816 -0.05332314 -0.04440024 -0.05774605 -0.05871973
+ -0.07374812 -0.05685467 -0.05683022 -0.06318912 -0.04441311 -0.05739399
+ -0.06020418 -0.05671557 -0.06434929 -0.05725167 -0.05972766 -0.0550668 ]
+1,Multi-Layer Perceptron::ret_OPT::r2,0.001220646048548879
+1,Multi-Layer Perceptron::ret_INTa::search_on_edge,True
+1,Multi-Layer Perceptron::ret_INTa::score_variation,-498.62169420171045
+1,Multi-Layer Perceptron::all_cv_scores,[-0.05650706 -0.13074476 -0.08857981 -0.09460317 -0.14148536 -0.09214423
+ -0.04722122 -0.09321281 -0.09189996 -0.10899947 -0.09925079 -0.07082615
+ -0.08066365 -0.07662869 -0.07720656 -0.05764219 -0.04377908 -0.06469789
+ -0.06756396 -0.04502453 -0.02363519 -0.06517524 -0.04893458 -0.06126325
+ -0.05044188 -0.05364172 -0.05975358 -0.07955883 -0.05833749 -0.05883162
+ -0.05969439 -0.0552903  -0.03995366 -0.04546379 -0.05597047 -0.05148506
+ -0.05144541 -0.05125036 -0.05276949 -0.06996649 -0.052925   -0.06358979]
+1,Multi-Layer Perceptron::ret_INTa::r2,-0.00261758299378001
+1,Multi-Layer Perceptron::ret_INTb::search_on_edge,False
+1,Multi-Layer Perceptron::ret_INTb::score_variation,-513.3913793077256
+1,Multi-Layer Perceptron::all_cv_scores,[-0.09060524 -0.12925714 -0.13970983 -0.10877069 -0.15907111 -0.09545245
+ -0.06367564 -0.07496643 -0.12956916 -0.10380891 -0.13463347 -0.11193535
+ -0.06735349 -0.08332031 -0.12158567 -0.05030321 -0.05757049 -0.02593305
+ -0.0593724  -0.07025775 -0.06762326 -0.07741923 -0.04640269 -0.02996042
+ -0.04966447 -0.07202627 -0.05100338 -0.04567602 -0.05407895 -0.06401522
+ -0.04580958 -0.05762028 -0.07025873 -0.05393991 -0.05866423 -0.05798674
+ -0.05868174 -0.05312491 -0.06215416 -0.06060918 -0.05575893 -0.05703673]
+1,Multi-Layer Perceptron::ret_INTb::r2,0.003304104356725013
+1,Random forest regressor::ret_PESS::search_on_edge,False
+1,Random forest regressor::ret_PESS::score_variation,-7.634015766507705
+1,Random forest regressor::all_cv_scores,[-0.05037798 -0.05116431 -0.04934315 -0.04872368 -0.04830451 -0.04899358
+ -0.04835061 -0.05100082 -0.0494144  -0.04928112 -0.04753544 -0.04894222
+ -0.04938205 -0.04855245 -0.04934132 -0.04987486 -0.0489447  -0.04904498
+ -0.04942225 -0.04849149 -0.04909251 -0.04861442 -0.04952844 -0.04891078
+ -0.04935374 -0.04872827 -0.04837393 -0.04934564 -0.04963434 -0.0490405
+ -0.049898   -0.04955512 -0.04916252 -0.04933378 -0.04968106]
+1,Random forest regressor::ret_PESS::r2,0.009309044561296886
+1,Random forest regressor::ret_OPT::search_on_edge,True
+1,Random forest regressor::ret_OPT::score_variation,-22.31488921461951
+1,Random forest regressor::all_cv_scores,[-0.03230456 -0.03548718 -0.03260075 -0.03279234 -0.03124247 -0.03309317
+ -0.03229287 -0.0342129  -0.03377288 -0.03150772 -0.03134949 -0.03232075
+ -0.03189502 -0.03230931 -0.03281845 -0.03339946 -0.03284977 -0.03299905
+ -0.03344548 -0.03275319 -0.0336022  -0.03523169 -0.03502085 -0.03413228
+ -0.03430385 -0.03488502 -0.03405641 -0.03464763 -0.03821419 -0.03656681
+ -0.03625354 -0.03676761 -0.03620834 -0.03621002 -0.03575257]
+1,Random forest regressor::ret_OPT::r2,0.013605434948571249
+1,Random forest regressor::ret_INTa::search_on_edge,False
+1,Random forest regressor::ret_INTa::score_variation,-8.722314599161276
+1,Random forest regressor::all_cv_scores,[-0.04601806 -0.0447942  -0.04373961 -0.04383572 -0.04399161 -0.04462743
+ -0.0432337  -0.04363576 -0.04426607 -0.04420635 -0.04323256 -0.04307629
+ -0.0428984  -0.04421723 -0.04363    -0.04335543 -0.04356591 -0.04258956
+ -0.04285303 -0.04232623 -0.04294929 -0.04272202 -0.04253769 -0.04361013
+ -0.04451302 -0.04300281 -0.04307812 -0.04333086 -0.04354162 -0.04365333
+ -0.04459421 -0.04336532 -0.04327155 -0.04309155 -0.04308899]
+1,Random forest regressor::ret_INTa::r2,0.010558809724024454
+1,Random forest regressor::ret_INTb::search_on_edge,True
+1,Random forest regressor::ret_INTb::score_variation,-6.247693017563479
+1,Random forest regressor::all_cv_scores,[-0.04849113 -0.04842825 -0.04717632 -0.04646871 -0.04676324 -0.04703075
+ -0.04770589 -0.04863677 -0.04801369 -0.046071   -0.04677269 -0.04614073
+ -0.04675673 -0.04577678 -0.04679822 -0.04601568 -0.04666098 -0.04694145
+ -0.04584658 -0.0478225  -0.04606115 -0.04762162 -0.04683284 -0.04692431
+ -0.0471279  -0.04677581 -0.04666207 -0.0465462  -0.04843082 -0.04671083
+ -0.04749012 -0.04759075 -0.04767878 -0.04718276 -0.04727445]
+1,Random forest regressor::ret_INTb::r2,0.010251811197946048
+1,Regression,ret_PESS::average return,0.04551448573217006
+1,Regression,ret_OPT::average return,0.03838317628733731
+1,Regression,ret_INTa::average return,0.029155169933550103
+1,Regression,ret_INTb::average return,0.03883970027147551
+1,Two-stage,ret_PESS::average return,0.027327928532283923
+1,Two-stage,ret_OPT::average return,0.0745191534659964
+1,Two-stage,ret_INTa::average return,0.032433614430246005
+1,Two-stage,ret_INTb::average return,0.04580391013196383
+1,Two-stage,ret_PESS::average return,0.0413324330602229
+1,Two-stage,ret_OPT::average return,0.04133428429038826
+1,Two-stage,ret_INTa::average return,0.025106058279869375
+1,Two-stage,ret_INTb::average return,0.04134960579033171
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.027951006621468873
+1,Greedy,ret_OPT::average return,0.06053465597286003
+1,Greedy,ret_INTa::average return,0.03765792329778395
+1,Greedy,ret_INTb::average return,0.03993711346252231
+1,Greedy,ret_PESS::average return,0.02492937266003862
+1,Greedy,ret_OPT::average return,0.0577095371253019
+1,Greedy,ret_INTa::average return,0.026440567934037693
+1,Greedy,ret_INTb::average return,0.03731414119409288
+1,Greedy,ret_PESS::average return,0.025854190457645993
+1,Greedy,ret_OPT::average return,0.054783319860083834
+1,Greedy,ret_INTa::average return,0.02551777789495576
+1,Greedy,ret_INTb::average return,0.04050243804132246
+1,Greedy,ret_PESS::average return,0.028051573624563647
+1,Greedy,ret_OPT::average return,0.051476665883493325
+1,Greedy,ret_INTa::average return,0.025286651834364626
+1,Greedy,ret_INTb::average return,0.04215243662361251
+1,Greedy,ret_PESS::average return,0.028031712268779242
+1,Greedy,ret_OPT::average return,0.05113369028932174
+1,Greedy,ret_INTa::average return,0.025995180994002526
+1,Greedy,ret_INTb::average return,0.04142757742709238
+1,Greedy,ret_PESS::average return,0.027502736613035185
+1,Greedy,ret_OPT::average return,0.050018622876314894
+1,Greedy,ret_INTa::average return,0.026451994453984683
+1,Greedy,ret_INTb::average return,0.04107974894865944
+1,Greedy,ret_PESS::average return,0.026786053873288924
+1,Greedy,ret_OPT::average return,0.050300968576495825
+1,Greedy,ret_INTa::average return,0.026289675929125667
+1,Greedy,ret_INTb::average return,0.0409803143586297
+1,Greedy,ret_PESS::average return,0.025669512735396343
+1,Greedy,ret_OPT::average return,0.05023293645605474
+1,Greedy,ret_INTa::average return,0.025694078870526004
+1,Greedy,ret_INTb::average return,0.04103598162868186
+1,Greedy,ret_PESS::average return,0.024723784746897744
+1,Greedy,ret_OPT::average return,0.05066798469261962
+1,Greedy,ret_INTa::average return,0.02563326808134763
+1,Greedy,ret_INTb::average return,0.04179714315229982
+1,Greedy,ret_PESS::average return,0.02339990720085367
+1,Greedy,ret_OPT::average return,0.05056849603625747
+1,Greedy,ret_INTa::average return,0.025710968727511517
+1,Greedy,ret_INTb::average return,0.0420252320330675
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.7391]
+1,Gaussian Naive Bayes::roc_auc,0.6826911801881337
+1,l1 Penalized Logistic Regression::search_on_edge,False
+1,l1 Penalized Logistic Regression::score_variation,0.019496977968412748
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.7692  0.7692  0.76935 0.76925 0.76925 0.76925 0.76925 0.76925 0.76925
+ 0.76925]
+1,l1 Penalized Logistic Regression::roc_auc,0.7048061578573462
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,0.11698186781049093
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.7685  0.7685  0.76845 0.76935 0.76935 0.76915 0.76925 0.76925 0.7692
+ 0.7692 ]
+1,l2 Penalized Logistic Regression::roc_auc,0.7041470411823365
+1,Decision tree::search_on_edge,False
+1,Decision tree::score_variation,0.4554326610279698
+1,Decision tree::all_cv_scores,[0.76765 0.7657  0.765   0.7673  0.76755 0.7685  0.7685  0.7685  0.7685 ]
+1,Decision tree::roc_auc,0.6879917413975589
+1,Lasso::ret_PESS::search_on_edge,False
+1,Lasso::ret_PESS::score_variation,-9.554864636994763
+1,Lasso::all_cv_scores,[-0.05287506 -0.05287506 -0.05282076 -0.0529931  -0.05262695 -0.05765538
+ -0.0575836  -0.0575836 ]
+1,Lasso::ret_PESS::r2,0.007745976569355828
+1,Lasso::ret_OPT::search_on_edge,False
+1,Lasso::ret_OPT::score_variation,-54.27776135990114
+1,Lasso::all_cv_scores,[-0.03786181 -0.03786181 -0.03785794 -0.0379503  -0.03917815 -0.05248008
+ -0.05840638 -0.05840638]
+1,Lasso::ret_OPT::r2,0.015472817134848937
+1,Lasso::ret_INTa::search_on_edge,False
+1,Lasso::ret_INTa::score_variation,-19.68240768460163
+1,Lasso::all_cv_scores,[-0.04608593 -0.04608593 -0.04605599 -0.04608087 -0.04664105 -0.0546005
+ -0.05512092 -0.05512092]
+1,Lasso::ret_INTa::r2,0.00936497448925977
+1,Lasso::ret_INTb::search_on_edge,True
+1,Lasso::ret_INTb::score_variation,-15.951993183067028
+1,Lasso::all_cv_scores,[-0.05000616 -0.05000616 -0.05000757 -0.05014486 -0.05072535 -0.05798314
+ -0.05729512 -0.05729512]
+1,Lasso::ret_INTb::r2,0.008428007706901997
+1,Ridge::ret_PESS::search_on_edge,True
+1,Ridge::ret_PESS::score_variation,-0.003938064991780134
+1,Ridge::all_cv_scores,[-0.05294164 -0.05294164 -0.05294164 -0.05294164 -0.05294164 -0.05294162
+ -0.05294142 -0.05293955]
+1,Ridge::ret_PESS::r2,0.008224292611802131
+1,Ridge::ret_OPT::search_on_edge,True
+1,Ridge::ret_OPT::score_variation,-0.00020488510015831068
+1,Ridge::all_cv_scores,[-0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.03786181 -0.0378618
+ -0.03786178 -0.03786173]
+1,Ridge::ret_OPT::r2,0.015423426346644509
+1,Ridge::ret_INTa::search_on_edge,True
+1,Ridge::ret_INTa::score_variation,-0.001934666203602609
+1,Ridge::all_cv_scores,[-0.04606497 -0.04606497 -0.04606497 -0.04606497 -0.04606497 -0.04606496
+ -0.04606487 -0.04606408]
+1,Ridge::ret_INTa::r2,0.009303002434927543
+1,Ridge::ret_INTb::search_on_edge,True
+1,Ridge::ret_INTb::score_variation,-0.001256922082499373
+1,Ridge::all_cv_scores,[-0.05015711 -0.05015711 -0.05015711 -0.05015711 -0.05015711 -0.0501571
+ -0.05015703 -0.05015648]
+1,Ridge::ret_INTb::r2,0.008444327422550635
+1,Linear Regression::ret_PESS::search_on_edge,False
+1,Linear Regression::ret_PESS::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.05297444]
+1,Linear Regression::ret_PESS::r2,0.008347387204119316
+1,Linear Regression::ret_OPT::search_on_edge,False
+1,Linear Regression::ret_OPT::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.03788349]
+1,Linear Regression::ret_OPT::r2,0.015624023710070545
+1,Linear Regression::ret_INTa::search_on_edge,False
+1,Linear Regression::ret_INTa::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.04636003]
+1,Linear Regression::ret_INTa::r2,0.009486795602898446
+1,Linear Regression::ret_INTb::search_on_edge,False
+1,Linear Regression::ret_INTb::score_variation,-0.0
+1,Linear Regression::all_cv_scores,[-0.05040477]
+1,Linear Regression::ret_INTb::r2,0.008625319945736787
+1,Regression,ret_PESS::average return,0.009439176167264127
+1,Regression,ret_OPT::average return,0.06792544533114073
+1,Regression,ret_INTa::average return,0.012027279619423563
+1,Regression,ret_INTb::average return,0.04771686073544374
+1,Two-stage,ret_PESS::average return,0.02717353091974596
+1,Two-stage,ret_OPT::average return,0.03828778101234537
+1,Two-stage,ret_INTa::average return,0.024448123880126234
+1,Two-stage,ret_INTb::average return,0.026172887744315178
+1,Two-stage,ret_PESS::average return,0.0413324330602229
+1,Two-stage,ret_OPT::average return,0.04133428429038826
+1,Two-stage,ret_INTa::average return,0.025106058279869375
+1,Two-stage,ret_INTb::average return,0.04134960579033171
+1,Innovative,ret_PESS::average return,0.08663051938085956
+1,Innovative,ret_OPT::average return,0.15119288560311406
+1,Innovative,ret_INTa::average return,0.09396042008894066
+1,Innovative,ret_INTb::average return,0.10844705283669932
+1,Innovative,ret_PESS::average return,0.0770075411510131
+1,Innovative,ret_OPT::average return,0.12281460452033877
+1,Innovative,ret_INTa::average return,0.07256279214013148
+1,Innovative,ret_INTb::average return,0.08846023529840333
+1,Innovative,ret_PESS::average return,0.07067377873098028
+1,Innovative,ret_OPT::average return,0.10901444219121909
+1,Innovative,ret_INTa::average return,0.06400590788717778
+1,Innovative,ret_INTb::average return,0.08035061663115795
+1,Innovative,ret_PESS::average return,0.06391880262006516
+1,Innovative,ret_OPT::average return,0.09898407574812161
+1,Innovative,ret_INTa::average return,0.05801110991520086
+1,Innovative,ret_INTb::average return,0.07485320773330668
+1,Innovative,ret_PESS::average return,0.052734044557244265
+1,Innovative,ret_OPT::average return,0.08624067754257168
+1,Innovative,ret_INTa::average return,0.05005654359816752
+1,Innovative,ret_INTb::average return,0.06717803144471662
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Innovative,ret_PESS::average return,0.024353067793769233
+1,Innovative,ret_OPT::average return,0.05256929143394833
+1,Innovative,ret_INTa::average return,0.02809272141926316
+1,Innovative,ret_INTb::average return,0.04383582496903853
+1,Greedy,ret_PESS::average return,0.02442434012396855
+1,Greedy,ret_OPT::average return,0.045442496939151665
+1,Greedy,ret_INTa::average return,0.030123277858753184
+1,Greedy,ret_INTb::average return,0.04643093905694973
+1,Greedy,ret_PESS::average return,0.024944069729449313
+1,Greedy,ret_OPT::average return,0.05051431773476167
+1,Greedy,ret_INTa::average return,0.021911916647491453
+1,Greedy,ret_INTb::average return,0.04402064685026522
+1,Greedy,ret_PESS::average return,0.02518347168045686
+1,Greedy,ret_OPT::average return,0.05041066283535289
+1,Greedy,ret_INTa::average return,0.024353310577382707
+1,Greedy,ret_INTb::average return,0.04312749000448099
+1,Greedy,ret_PESS::average return,0.02386860845486819
+1,Greedy,ret_OPT::average return,0.050196633615152496
+1,Greedy,ret_INTa::average return,0.02528895695714664
+1,Greedy,ret_INTb::average return,0.041084362502425406
+1,Greedy,ret_PESS::average return,0.022204755569055375
+1,Greedy,ret_OPT::average return,0.04925354633827
+1,Greedy,ret_INTa::average return,0.026680058001588815
+1,Greedy,ret_INTb::average return,0.040839757738972686
+1,Greedy,ret_PESS::average return,0.020873355553748398
+1,Greedy,ret_OPT::average return,0.04980153868688561
+1,Greedy,ret_INTa::average return,0.02627542978564737
+1,Greedy,ret_INTb::average return,0.040887226266006584
+1,Greedy,ret_PESS::average return,0.02035401392413214
+1,Greedy,ret_OPT::average return,0.05048491360316537
+1,Greedy,ret_INTa::average return,0.02624608274201611
+1,Greedy,ret_INTb::average return,0.04125662235745589
+1,Greedy,ret_PESS::average return,0.02072750432306176
+1,Greedy,ret_OPT::average return,0.050161037314401906
+1,Greedy,ret_INTa::average return,0.026676970392484303
+1,Greedy,ret_INTb::average return,0.041534254022022474
+1,Greedy,ret_PESS::average return,0.020771913250796335
+1,Greedy,ret_OPT::average return,0.05026438522179337
+1,Greedy,ret_INTa::average return,0.026608726878292313
+1,Greedy,ret_INTb::average return,0.04155674634167132
+1,Greedy,ret_PESS::average return,0.020981857784870467
+1,Greedy,ret_OPT::average return,0.0506558248344317
+1,Greedy,ret_INTa::average return,0.026536121943098116
+1,Greedy,ret_INTb::average return,0.04179106109696201

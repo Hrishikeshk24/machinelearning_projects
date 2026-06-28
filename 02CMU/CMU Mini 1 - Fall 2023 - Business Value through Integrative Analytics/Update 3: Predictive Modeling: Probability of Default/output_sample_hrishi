@@ -1,0 +1,43 @@
+1,Grade only logistic l2::search_on_edge,False
+1,Grade only logistic l2::score_variation,0.0
+1,Grade only logistic l2::all_cv_scores,[0.80648]
+1,Grade only logistic l2::roc_auc,0.674801106832105
+1,Interest rate only logistics l2::search_on_edge,False
+1,Interest rate only logistics l2::score_variation,0.0
+1,Interest rate only logistics l2::all_cv_scores,[0.80308]
+1,Interest rate only logistics l2::roc_auc,0.6776279827503109
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.23252]
+1,Gaussian Naive Bayes::roc_auc,0.4964211005797653
+1,l1 Penalized Logistic Regression::search_on_edge,True
+1,l1 Penalized Logistic Regression::score_variation,0.9193460219649248
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.80492 0.8004  0.79864 0.79792 0.79784 0.79772 0.79792 0.79792 0.79752
+ 0.79804]
+1,l1 Penalized Logistic Regression::roc_auc,0.7016115970990204
+1,l2 Penalized Logistic Regression::search_on_edge,False
+1,l2 Penalized Logistic Regression::score_variation,1.135574729743139
+1,l2 Penalized Logistic Regression::all_cv_scores,[0.80648 0.80648 0.80652 0.80664 0.80644 0.80156 0.79876 0.79788 0.79748
+ 0.7978 ]
+1,l2 Penalized Logistic Regression::roc_auc,0.7046901577929683
+1,Decision tree::search_on_edge,False
+1,Decision tree::score_variation,0.2876698740204193
+1,Decision tree::all_cv_scores,[0.80416 0.80648 0.80648 0.80648 0.80648 0.80648 0.80648 0.80648 0.80648]
+1,Decision tree::roc_auc,0.6615548853082074
+1,Grade only logistic l2::search_on_edge,False
+1,Grade only logistic l2::score_variation,0.0
+1,Grade only logistic l2::all_cv_scores,[0.80648]
+1,Grade only logistic l2::roc_auc,0.674801106832105
+1,Interest rate only logistics l2::search_on_edge,False
+1,Interest rate only logistics l2::score_variation,0.0
+1,Interest rate only logistics l2::all_cv_scores,[0.80308]
+1,Interest rate only logistics l2::roc_auc,0.6776279827503109
+1,Gaussian Naive Bayes::search_on_edge,False
+1,Gaussian Naive Bayes::score_variation,0.0
+1,Gaussian Naive Bayes::all_cv_scores,[0.66448]
+1,Gaussian Naive Bayes::roc_auc,0.6840445554035163
+1,l1 Penalized Logistic Regression::search_on_edge,False
+1,l1 Penalized Logistic Regression::score_variation,0.09417596034696193
+1,l1 Penalized Logistic Regression::all_cv_scores,[0.80624 0.80636 0.80648 0.80664 0.80656 0.80684 0.8066  0.80684 0.807
+ 0.80692]
+1,l1 Penalized Logistic Regression::roc_auc,0.7081838783967263
